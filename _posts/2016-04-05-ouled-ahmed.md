@@ -10,7 +10,7 @@ tags:
 - poetry
 - patriotism
 - sghaier
-tumblr_url: https://yazid.xyz/post/142313032687/ouled-ahmed
+
 ---
 <figure data-orig-width="386" data-orig-height="516" class="tmblr-full"><img src="https://66.media.tumblr.com/97ae164295bd387c7be3e1e2e1b400bc/tumblr_inline_o56ja44rPJ1sxoy8i_540.png" alt="image" data-orig-width="386" data-orig-height="516"></figure>
 

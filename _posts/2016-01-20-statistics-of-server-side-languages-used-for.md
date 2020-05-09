@@ -12,7 +12,7 @@ tags:
 - tehcodez
 - nodejs
 - aspmvc
-tumblr_url: https://yazid.xyz/post/137678997682/statistics-of-server-side-languages-used-for
+
 ---
 While doing some research which would hopefully guide me through my current dilemma: “ASP MVC or Node.js?”, I found an interesting statistic [here](http://w3techs.com/technologies/overview/programming_language/all).
 

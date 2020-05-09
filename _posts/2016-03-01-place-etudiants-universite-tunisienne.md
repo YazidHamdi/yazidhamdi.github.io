@@ -10,7 +10,7 @@ tags:
 - études
 - étudiants
 - association
-tumblr_url: https://yazid.xyz/post/140272035282/place-etudiants-universite-tunisienne
+
 ---
  **Par la tradition et la convention, et à quelques exceptions près** , l’université Tunisienne&nbsp;fonctionne selon un système qui marque une rupture radicale de mentalités entre les étudiants et leurs enseignants. Certes, selon les narratives «&nbsp;d’excellence&nbsp;» et autres illusions et sophismes, l’université Tunisienne est une école de savoir, de savoir-faire et de savoir-être qui fonctionne bien comme il faut. Mais tout étudiant qui a passé ses années dans les couloirs d’une école ou faculté Tunisienne saura que ce n’est que rarement vrai.
 

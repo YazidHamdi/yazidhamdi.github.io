@@ -11,7 +11,7 @@ tags:
 - cultural understanding
 - strategic networking
 - scholarship
-tumblr_url: https://yazid.xyz/post/161636913992/why-fulbright-matters-a-subjective-account-of
+
 ---
 Being the good old procrastinating developer who has 10 million ideas none of which is finished and most of which are not even started, I’ve been trying to write an article about the Fulbright program, my experience as a Fulbright scholar so far and some thoughts about its value. But a chance never came I was busy fighting code bugs with a laser saber it was simply a headache to try to summarize such an intense experience in one article without making it a long boring “yet another PR piece”.
 

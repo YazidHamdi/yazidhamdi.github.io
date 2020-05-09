@@ -9,7 +9,7 @@ tags:
 - guide
 - gaming hardware
 - gaming
-tumblr_url: https://yazid.xyz/post/186603539662/building-a-gaming-pc-for-absolute-n00bs-in-2019
+
 ---
 Being a [Software Engineer](https://www.linkedin.com/in/yazidhamdi/), I have always known all there is to know about software, UI, OS tweaks, and all that fun stuff. I only worried about hardware when it came to minimum requirements to run games or other tools.
 

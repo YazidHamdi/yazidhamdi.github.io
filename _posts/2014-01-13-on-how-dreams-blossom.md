@@ -3,10 +3,12 @@ layout: post
 title: On how dreams blossom
 date: '2014-01-13T23:22:00+01:00'
 tags:
-- Toulouse
-- ADAI
-- SuccessStory
-tumblr_url: https://yazid.xyz/post/73240158191/on-how-dreams-blossom
+- toulouse
+- tunisia
+- adai
+- success-story
+- student-life
+
 ---
 Today is a happy day.
 

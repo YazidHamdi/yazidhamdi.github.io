@@ -13,7 +13,7 @@ tags:
 - higher education
 - graduate school
 - sethings
-tumblr_url: https://yazid.xyz/post/164050589357/the-real-value-of-a-degree
+
 ---
 <figure data-orig-width="540" data-orig-height="197" class="tmblr-full" data-orig-src="https://66.media.tumblr.com/e58786a5db33e6be80eaa686b96e53ef/tumblr_inline_ouia00aMLO1sxoy8i_540.png"><img src="https://66.media.tumblr.com/6ced09e7b5fbc48fbf6168d06f668d4b/tumblr_inline_ouihgyOgXD1sxoy8i_540.png" alt="image" data-orig-width="540" data-orig-height="197" data-orig-src="https://66.media.tumblr.com/e58786a5db33e6be80eaa686b96e53ef/tumblr_inline_ouia00aMLO1sxoy8i_540.png"></figure>
 

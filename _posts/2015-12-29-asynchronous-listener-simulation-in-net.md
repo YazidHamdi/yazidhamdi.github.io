@@ -10,7 +10,7 @@ tags:
 - ".net"
 - csharp
 - tehcodez
-tumblr_url: https://yazid.xyz/post/136212570902/asynchronous-listener-simulation-in-net
+categories: SE
 ---
 Hi all!
 

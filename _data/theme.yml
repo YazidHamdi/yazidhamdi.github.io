@@ -1,1 +1,6 @@
 skin: night
+navigation_pages:
+  - index.md
+  - SE.md
+  - reads.md
+  - about.md

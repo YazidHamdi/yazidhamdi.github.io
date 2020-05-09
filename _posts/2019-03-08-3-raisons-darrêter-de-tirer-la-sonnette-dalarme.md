@@ -12,7 +12,7 @@ tags:
 - emploi
 - niveau de vie
 - langue de bois
-tumblr_url: https://yazid.xyz/post/183300006652/3-raisons-darr%C3%AAter-de-tirer-la-sonnette-dalarme
+
 ---
 ## Guide des responsables “choqués”
 

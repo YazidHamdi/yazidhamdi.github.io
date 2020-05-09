@@ -7,7 +7,7 @@ tags:
 - management
 - employment
 - job_search
-tumblr_url: https://yazid.xyz/post/126329979817/graduate-job-seeker-dont-give-up-hope
+
 ---
 [Graduate job seeker, don't give up hope](https://www.linkedin.com/pulse/youre-disappointment-recruitment-management-yazid-hamdi)  
 

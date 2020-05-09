@@ -14,7 +14,7 @@ tags:
 - pittsburgh
 - pennsylvania
 - it_depends
-tumblr_url: https://yazid.xyz/post/154800952637/quick-update
+
 ---
 Hey hey lonely troll/honorable HR professional reading this!
 

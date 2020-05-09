@@ -14,7 +14,7 @@ tags:
 - labels
 - prejudice
 - age segregation
-tumblr_url: https://yazid.xyz/post/131337453567/baby-boomer-x-y-millennial-seriously
+
 ---
 I’m sure you encountered these terms multiple times in the last few years, in a time when the cultural transition from the old suit-and-tie business culture to the jeans-and-tee-shirt type business, from Steve Ballmer to Satya Nadella, from Blackberry to Adnroid was happening. You know, the general agilization of things, the cool down from horrific patent battles to a more compromising and collaborative culture. We are indeed at a point in culture, business and tech history where major changes are maturing, since they started happening shrouded in doubt about a decade ago.
 

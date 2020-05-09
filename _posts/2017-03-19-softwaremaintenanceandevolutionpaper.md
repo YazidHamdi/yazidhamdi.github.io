@@ -10,7 +10,7 @@ tags:
 - CMU
 - paper
 - software engineering
-tumblr_url: https://yazid.xyz/post/158577595677/softwaremaintenanceandevolutionpaper
+
 ---
 <figure data-orig-width="697" data-orig-height="297" class="tmblr-full"><img src="https://66.media.tumblr.com/df2623ae0bda206d71248407eab7e353/tumblr_inline_on1ua1z1kO1sxoy8i_540.png" alt="image" data-orig-width="697" data-orig-height="297"></figure>
 

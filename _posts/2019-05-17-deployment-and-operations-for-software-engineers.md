@@ -10,7 +10,7 @@ tags:
 - sethings
 - operations
 - security
-tumblr_url: https://yazid.xyz/post/184941914687/deployment-and-operations-for-software-engineers
+
 ---
 Happy to receive my copy of [Len Bass](https://www.linkedin.com/in/ACoAAAG47YUBGG1bj2Ni3h_AdVD9xYju0hq69-Q/)’s new book, “Deployment and Operations for Software Engineers” .
 

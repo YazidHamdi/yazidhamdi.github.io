@@ -15,7 +15,7 @@ tags:
 - mass hysteria
 - unethical
 - corporate
-tumblr_url: https://yazid.xyz/post/155396214102/whats-wrong-with-the-startup-world-and-the-book
+
 ---
 I have had the chance to read, over the last couple of months (mostly in the last 21 days, since CMU homework consumed the rest of that period) **Dan Lyon’s book “Disrupted: My Misadventure in the Start-Up Bubble”**.
 

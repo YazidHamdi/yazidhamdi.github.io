@@ -15,7 +15,7 @@ tags:
 - universités
 - économie
 - maghreb
-tumblr_url: https://yazid.xyz/post/136181230977/la-fuite-des-cerveaux-en-tunisie-ce-grand-faux
+
 ---
 Ce sujet n'a cessé de revenir sur la scène nationale. Il me touche personnellement car j'ai été des deux côtés de l'équation que ce problème pose, et parce que dans mon cercle social ce débat revient fréquemment avec des amis expatriés ou qui cherchent à s’installer à l’étranger. Il est grand temps d'ouvrir ce sujet, mais cette fois avec des ambitions qui dépassent un discours sentimental contre-productif et un simple diagnostic redondant, auto-complaisant et populiste. Toutefois, j’avoue que si vous êtes en quête d’objectivité, cet article n’est pas pour vous. Il a pour principal objet de défier les narratives classiques et récurrentes qui définissent le débat jusque-là stérile que la fuite des cerveaux relève. Je vais aussi éviter de revenir sur les définitions (et tentatives de redéfinition) du phénomène qui peuvent rapidement faire dévier le sujet en un débat académique qui se soucie plus de la forme que du fond. Fuite de cerveaux est pour moi, si vous avez vraiment besoin d’une définition, l’immigration en masse des jeunes diplômés de l’enseignement supérieur (d’autres termes comme «&nbsp;talent&nbsp;» sont souvent utilisés pour dire à peu-près la même chose) à l’étranger, principalement vers l’Europe. Je parlerai plus spécifiquement du cas des ingénieurs et médecins, puisque ce sont les domaines sur lesquels je suis informé par l’expérience personnelle et par les retours d’amis œuvrant dans ces domaines.
 
