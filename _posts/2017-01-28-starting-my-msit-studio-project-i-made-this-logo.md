@@ -9,10 +9,10 @@ tags:
 - teambuilding
 - carnegie mellon
 - software engineering
-
+categories: stories
 ---
  ![](/images/ChaosMonkeys/logo.png)
 
 Starting my MSIT Studio project for the [masters program I am attending at Carnegie Mellon University](https://mse.isri.cmu.edu/index.html), I made this logo suggestion to my team and they validated it!
 
-Watch out for the Chaos Monkeys, we’re coming :)
+Watch out for the Chaos Monkeys, we're coming:)

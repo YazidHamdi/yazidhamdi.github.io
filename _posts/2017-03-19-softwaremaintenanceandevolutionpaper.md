@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Software Maintenance and Evolution: Introduction to Organizational and Process
-  Challenges'
+ Challenges'
 date: '2017-03-19T07:26:48+01:00'
 tags:
 - SEThings
@@ -10,7 +10,7 @@ tags:
 - CMU
 - paper
 - software engineering
-
+categories: SE
 ---
 <figure data-orig-width="697" data-orig-height="297" class="tmblr-full"><img src="https://66.media.tumblr.com/df2623ae0bda206d71248407eab7e353/tumblr_inline_on1ua1z1kO1sxoy8i_540.png" alt="image" data-orig-width="697" data-orig-height="297"></figure>
 

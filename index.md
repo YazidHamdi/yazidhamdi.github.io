@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: posts
 image: /images/banner.png
 ---
