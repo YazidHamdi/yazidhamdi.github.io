@@ -15,7 +15,6 @@ tags:
 categories: stories
 ---
 ## Guide des responsables "choqués"
-
 "Tirer la sonnette d'alarme", "exprimer l'inquiétude", "reporter les chiffres choquants", etc. à en croire notre gouvernement (et tous les gouvernements qui l'ont précédé pour être honnête), on ne peut pas répondre autrement aux conséquences terribles de ce qu'on adore appeler "la fuite des cerveaux". J'aime comparer cette attitude quasi-criminellement passive de la part des responsables qui ont toutes les clés en main à ce ridicule "choqué mennek" que le raciste profère dans [l'épisode de "Hethoukom"](https://www.youtube.com/watch?v=ah7DYua2Apc) quand on lui dénonce son racisme. Il n'y a pas de quoi être choqués les gars, je vous assure.
 
 J'avais déjà écrit [un petit article plus illustré et plus détaillé là-dessus](https://yazid.xyz/post/136181230977/la-fuite-des-cerveaux-en-tunisie-ce-grand-faux) mais je pense qu'il est urgent de revisiter la question puisque la question continue de revenir et le cycle de tirage de la sonnette d'alarme (et rien de plus) par nos gouvernements ne cesse de se reproduire. Et cette fois je vais être moins philosophique et plus concret.

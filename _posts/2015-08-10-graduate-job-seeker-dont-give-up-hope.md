@@ -10,7 +10,6 @@ tags:
 categories: stories
 ---
 This is an article I originally wrote on Linkedin to tackle a certain malicious HR recruitment and management style, let me know what you think:)
-
 [Graduate job seeker, don't give up hope](https://www.linkedin.com/pulse/youre-disappointment-recruitment-management-yazid-hamdi)
 
 ---

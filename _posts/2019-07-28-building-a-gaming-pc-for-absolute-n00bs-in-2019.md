@@ -11,6 +11,7 @@ tags:
 - gaming
 categories: stories
 ---
+![](/images/GamingBuild/0.jpg)
 Being a [Software Engineer](https://www.linkedin.com/in/yazidhamdi/), I have always known all there is to know about software, UI, OS tweaks, and all that fun stuff. I only worried about hardware when it came to minimum requirements to run games or other tools.
 
 Until recently, when I realized playing on my Xbox One is not good for FPS games, especially that I developed an affinity for [Apex Legends](https://www.ea.com/games/apex-legends) and was almost not too bad at it.

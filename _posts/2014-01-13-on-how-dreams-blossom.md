@@ -10,9 +10,7 @@ tags:
 - student-life
 categories: stories
 ---
-Today is a happy day.
-
-Back when I was studying in Toulouse, and more precisely in 2010, several students having studied at [IPEST](http://www.ipest.rnu.tn) (my graduate scientific prep school in Tunisia) and I decided to found a local Toulouse branch of the[ADAI](http://www.ipestien.org/) (IPEST Alumni Association) since there were many of us in Toulouse at the time. This was of course motivated (and in a way suggested) by the ADAI officials in Paris, home of the association and kind of its geographical playground.
+Today is a happy day. Back when I was studying in Toulouse, and more precisely in 2010, several students having studied at [IPEST](http://www.ipest.rnu.tn) (my graduate scientific prep school in Tunisia) and I decided to found a local Toulouse branch of the[ADAI](http://www.ipestien.org/) (IPEST Alumni Association) since there were many of us in Toulouse at the time. This was of course motivated (and in a way suggested) by the ADAI officials in Paris, home of the association and kind of its geographical playground.
 
 And like any Alumni association, the task was to gather the community around the project and create this unique blend of enjoyment (with fun activities, gatherings etc…) and commitment to the "cause", by sharing responsibilities and tasks, and eventually creating a solid core team able to manage the branch and organize activities. So we worked hard, started making some noise and even got a [Facebook page](https://www.facebook.com/ADAI.Toulouse), and soon, ADAI Toulouse EXISTED!
 

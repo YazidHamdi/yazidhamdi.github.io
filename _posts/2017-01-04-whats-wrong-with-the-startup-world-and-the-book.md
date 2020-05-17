@@ -17,9 +17,8 @@ tags:
 - corporate
 categories: reads
 ---
-I have had the chance to read, over the last couple of months (mostly in the last 21 days, since CMU homework consumed the rest of that period) **Dan Lyon's book "Disrupted: My Misadventure in the Start-Up Bubble"**.
-
 ![](/images/Disrupted/cover.jpg)
+I have had the chance to read, over the last couple of months (mostly in the last 21 days, since CMU homework consumed the rest of that period) **Dan Lyon's book "Disrupted: My Misadventure in the Start-Up Bubble"**.
 
 I purchased this book around when I first arrived to the US (August 2016, almost 4 months after its release), and I was excited by the promise of a behind-the scenes look at this start-up hype, which felt like being over-glorified and polished from the outside. I will however, preface my comments on questions the book tackled (don't expect an objective well-studied analysis of the book, it's rather a subset of my personal thoughts on it and comments on things I found interesting) with a rather long story of how I felt about this issue before I read the book. This might explain my comments on the book itself, and might be of interest for someone who is curious about how a young developing world native software engineer feels about this whole thing. Yeah nobody probably cares but I'm doing this anyway.
 

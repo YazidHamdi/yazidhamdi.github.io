@@ -13,7 +13,6 @@ tags:
 categories: stories
 ---
 Today [Mohamed Sghaier Ouled Ahmed](https://english.al-akhbar.com/node/12623) died after a long battle with cancer.
-
 I won't tell you how he lived, I'll just remember him through a poem he wrote in 1998, a poem I learned in school and still remember to this day, as do several of my countrymen, a poem about our destiny to ferociously love this land for as long as we shall live. It was written in Arabic, but the English translation below is as powerful and expressive.
 
 Today, the Tunisian poet is dead.

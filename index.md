@@ -1,4 +1,3 @@
 ---
-layout: posts
-image: /images/banner.png
+layout: home
 ---
