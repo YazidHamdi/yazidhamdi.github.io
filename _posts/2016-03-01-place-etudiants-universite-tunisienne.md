@@ -1,16 +1,7 @@
 ---
 layout: post
 title: De la place des étudiants dans le développement de l'université Tunisienne
-date: '2016-03-01T14:52:15+01:00'
-tags:
-- universités
-- tunisie
-- ensit
-- tunis
-- études
-- étudiants
-- association
-categories: stories
+tags: [universités, tunisie, ensit, tunis, études, étudiants, association, stories]
 ---
  **Par la tradition et la convention, et à quelques exceptions près** , l'université Tunisienne fonctionne selon un système qui marque une rupture radicale de mentalités entre les étudiants et leurs enseignants. Certes, selon les narratives "d'excellence" et autres illusions et sophismes, l'université Tunisienne est une école de savoir, de savoir-faire et de savoir-être qui fonctionne bien comme il faut. Mais tout étudiant qui a passé ses années dans les couloirs d'une école ou faculté Tunisienne saura que ce n'est que rarement vrai.
 
@@ -30,11 +21,11 @@ Je me rappelle aussi d'une **direction de l'école et d'une équipe administrati
 
 A une époque, la première édition du magazine de l'école (un des produits de cette génération pionnière) était sortie, et j'ai eu la chance d'y contribuer avec un article qui soulignait la recette de notre parcours réussi à l'ENSIT, nous étudiants, nos enseignants et notre administration:
 
-![](/images/PlaceEtudiants/article.png)
+![](/assets/img/PlaceEtudiants/article.png)
 
 Nostalgique que je suis, jusqu'à ce jour, en passant par Bâb Alioua là où mon école se trouve, j'ai des frissons à la vue de ce merveilleux logo imposant de l'ENSIT, un logo qui illustre en soi la recette de réussite de notre dynamique, modèle à suivre pour l'université Tunisienne: design par un étudiant artiste de l'école, conception et dossier technique par un autre étudiant, démarches commerciales par l'administration à l'aide d'étudiants, toujours, et enfin un logo qui fait notre fierté et marque l'empreinte d'une collaboration exemplaire qui a poussé l'ENSIT vers sa nouvelle ère:
 
-![](/images/PlaceEtudiants/logo.jpg)
+![](/assets/img/PlaceEtudiants/logo.jpg)
 
 **Rien n'égale la capacité de pousser son école vers l'avant, rien ne l'égale**. Tout un mélange d'émotions et d'ambitions en flamme avait inspiré toute une génération pour faire des initiatives, pour ouvrir des portes, pour travailler à fond, et pour réussir.
 

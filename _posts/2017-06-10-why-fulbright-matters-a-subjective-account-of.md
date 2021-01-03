@@ -1,26 +1,17 @@
 ---
 layout: post
 title: 'Why Fulbright Matters: A Subjective Account of Randomly Consistent Facts'
-date: '2017-06-10T01:10:14+02:00'
-tags:
-- fulbright
-- fulbright scholar
-- budget2017
-- trump budget
-- budget cut
-- cultural understanding
-- strategic networking
-- scholarship
-categories: stories
+
+tags: [fulbright, fulbright scholar, budget2017, trump budget, budget cut, cultural understanding, strategic networking, scholarship, stories]
 ---
-![](/images/Fulbright/0.jpg)
+![](/assets/img/Fulbright/0.jpg)
 Being the good old procrastinating developer who has 10 million ideas none of which is finished and most of which are not even started, I've been trying to write an article about the Fulbright program, my experience as a Fulbright scholar so far and some thoughts about its value. But a chance never came: I was busy fighting code bugs with a laser saber it was simply a headache to try to summarize such an intense experience in one article without making it a long boring "yet another PR piece".
 
 Recently however, news came that the Trump administration is planning a huge budget cut to the Fulbright program. This made the idea for this article resurface in my mind and start to take shape.
 
 As I'm writing this, I'm sitting on a bench in Central Park in NYC. A big deal for a Pittsburgh resident, right? The contrast between the old-looking trees, wild rocky shady green surfaces and the skyscrapers in the background is haunting.
 
-![](/images/Fulbright/0.jpg)
+![](/assets/img/Fulbright/0.jpg)
 
 To be honest, I don't have a particular affection for big cities. New York is different, in a way that still puzzles me. I mean this is still the same place where Leonardo Di Caprio lead a ferocious knives-and-teeth battle and murdered the psychopath butcher and his lackeys! This is also where theater, late shows and musicals blossom! And yet it's also the home of the monstrous Wall Street and its Charging Bull, with people lining up to touch its scrotum and wish for money. New York City is weird. Delicious Pizza and ground smoke. NYC public library, the very edge of sophistication, and huge advertising screens and billboards. It's unclassifiable, a big mass of everything American and non-American. A shake of protein and carbs with a touch of animal lard, something awe-inspiring yet aggressively bold for the sensitivities of a quiet-loving OCD-stricken guy like me.
 
@@ -50,7 +41,7 @@ I will make this more fun: I actually got to know new amazing fellow bright fool
 
 **Let me start with the Pittsburghers!**
 
-![](/images/Fulbright/1.jpg)
+![](/assets/img/Fulbright/1.jpg)
 
 Cecilia, Jebrane and I first met at the Fulbright Gateway event in Boston (Suffolk University, August 1<sup>st</sup>to August 5<sup>th</sup> 2016). We were the three Pittsburghers of the group, and as soon as we settled in Pittsburgh, we kept in touch.
 
@@ -60,11 +51,11 @@ Cecilia, Jebrane and I first met at the Fulbright Gateway event in Boston (Suffo
 
 **Now for the Tunisians!**
 
-![](/images/Fulbright/2.jpg)
+![](/assets/img/Fulbright/2.jpg)
 
 **Seif** is my long time friend since my undergrad days in ENSIT, University of Tunis. Seif is a fun person, very smart and talented in entrepreneurship and management. I worked with Seif in different student activities during undergrad, where he and I as well as our legendary gang did so much volunteer work and achieved so much together. Seif is now sponsored by the Foreign Fulbright Program to pursue a Master in Technology Management at the University of Bridgeport. He won "the coveted Best Venture Enterprise Award at the 20th fall Connecticut Business Plan Competition for scholar-entrepreneurs" ([http://news.bridgeport.edu/news-releases/ub-student-entrepreneur-wins-ct-business-plan-competition/](http://news.bridgeport.edu/news-releases/ub-student-entrepreneur-wins-ct-business-plan-competition/)), rewarding the great potential that I have always seen in him.
 
-![](/images/Fulbright/3.jpg)
+![](/assets/img/Fulbright/3.jpg)
 
 **Narimane** , or Nari like Americans like to call her, is one of those people about whom you discover amazing things little by little. Today we actually met during her lunch break and took the above selfie, and I learned that she grew up in Saudi Arabia, surrounded by Egyptian and Lebanese nationals, studying in a French school, returning to Tunisia at age 14 to integrate into her home country for the first time and to join its educational system, which is a tremendous challenge she successfully completed. She later joined INSAT (one of Tunisia's best engineering schools) to graduate as a biology engineer, then working in healthcare management, now pursuing an MBA at William and Mary, and interning this summer at CBRE (leader in real estate) in New York City doing real work instead of dummy intern tasks. And there's a reason for that, she knows her stuff. Changing specialties or rather application domains never stopped her from adapting quickly, learning and making impressive progress each time. It shows on her CV, it shows when you talk to her, in her people skills and in her exceptional intelligence.
 
@@ -72,7 +63,7 @@ Cecilia, Jebrane and I first met at the Fulbright Gateway event in Boston (Suffo
 
 **There's a pattern here** , recognized around the world beyond my personal experience: Fulbright grantees are exceptional people with amazing potential, tremendous ambition, and unique talents.
 
-I could really go on, but the article is already too long. The gist of it is this: the Fulbright program benefits the US by supporting people like Jebrane, Cecilia, Seif and Narimane, people who will someday achieve great things. Fulbright grantees are selected among thousands and thousands of candidates, and are people with exceptional potential to achieve great things in the future. Fulbright involves them with US-based universities and communities, Fulbright makes of them partners for the future, the US gains allies all around the world, thousands of Jebranes, Cecilias, Seifs and Narimanes. That is a gain which cannot be quantified with money, and the Fulbright Program is probably the best performing academic exchange program in terms of achieving these goals, simply through its sheer scale, hence its prestigious reputation and very notable alumni. ([US Fulbright](https://us.fulbrightonline.org/), [Foreign Fulbright](https://foreign.fulbrightonline.org/))
+I could really go on, but the article is already too long. The gist of it is this: the Fulbright program benefits the US by supporting people like Jebrane, Cecilia, Seif and Narimane, people who will someday achieve great things. Fulbright grantees are selected among thousands and thousands of candi
 
 **The Fulbright Program is the ingenious product of that unique US magic potion**: senator J. William Fulbright got the idea, fought for it, successfully implemented it, and since then, the US gained an incomparable edge in terms of international networking thanks to the dynamic of partnership and mutual understanding this program created.
 

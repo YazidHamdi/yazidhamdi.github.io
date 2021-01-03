@@ -1,23 +1,9 @@
 ---
 layout: post
 title: What's wrong with the startup world, and the book that lays it down
-date: '2017-01-04T18:37:35+01:00'
-tags:
-- disrupted
-- danlyons
-- book
-- startup
-- bubble
-- leadership
-- entrepreneurship
-- coolaid
-- mass hypnosis
-- mass hysteria
-- unethical
-- corporate
-categories: reads
+tags: [disrupted, danlyons, book, startup, bubble, leadership, entrepreneurship, coolaid, mass hypnosis, mass hysteria, unethical, corporate, reads]
 ---
-![](/images/Disrupted/cover.jpg)
+![](/assets/img/Disrupted/cover.jpg)
 I have had the chance to read, over the last couple of months (mostly in the last 21 days, since CMU homework consumed the rest of that period) **Dan Lyon's book "Disrupted: My Misadventure in the Start-Up Bubble"**.
 
 I purchased this book around when I first arrived to the US (August 2016, almost 4 months after its release), and I was excited by the promise of a behind-the scenes look at this start-up hype, which felt like being over-glorified and polished from the outside. I will however, preface my comments on questions the book tackled (don't expect an objective well-studied analysis of the book, it's rather a subset of my personal thoughts on it and comments on things I found interesting) with a rather long story of how I felt about this issue before I read the book. This might explain my comments on the book itself, and might be of interest for someone who is curious about how a young developing world native software engineer feels about this whole thing. Yeah nobody probably cares but I'm doing this anyway.
@@ -50,7 +36,7 @@ Several aspects of startup culture were covered in the book. I believe that ther
 
 **Ageism in the tech industry**
 
-Ageism or age discrimination is a fairly perceptible phenomenon across the professional world. But in the specific case of startups and the startup culture, "youth-driven" seems to be the positive label that sometimes hides discrimination against older candidates or colleagues. It is actually "weird" for someone who is above 40 (or, you know, with a family) to be in that ecosystem. The common belief is that startup work is so intense that only young hyperactive people who are not bound by family or health obligations can do it. If you're going to work for a startup, you kinda know you're getting into a 60+ work hours a week type deal. But it's more than that: it's that "these old people" and "their old system" are the antithesis of startup culture, therefore they should be left out. They don't say "awesome" enough. They speak proper English, write memos and document things, ew. They couldn't possibly take part in our "awesome" rituals such as daily [plank meetings](https://medium.com/@william.liu/daily-plank-meeting-732456e6f7b1) or submit to our "awesome" values. They still think this is a job, ew. This IS OUR LIFE, and if they won't make it their life too, they're not in.
+Ageism or age discrimination is a fairly perceptible phenomenon across the professional world. But in the specific case of startups and the startup culture, "youth-driven" seems to be the positive label that sometimes hides discrimination against older candi
 
 That kind of shit.
 

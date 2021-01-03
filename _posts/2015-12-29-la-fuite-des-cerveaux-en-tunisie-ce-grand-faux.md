@@ -1,20 +1,7 @@
 ---
 layout: post
 title: 'La Fuite Des Cerveaux En Tunisie: Ce Grand Faux Problème, Ces Grandes Fausses Solutions'
-date: '2015-12-29T13:28:44+01:00'
-tags:
-- tunisie
-- tunisia
-- cerveaux
-- fuite
-- brain drain
-- immigration
-- talent
-- youth
-- universités
-- économie
-- maghreb
-categories: stories
+tags: [tunisie, tunisia, cerveaux, fuite, brain drain, immigration, talent, youth, universités, économie, maghreb, stories]
 ---
 Ce sujet n'a cessé de revenir sur la scène nationale. Il me touche personnellement car j'ai été des deux côtés de l'équation que ce problème pose, et parce que dans mon cercle social ce débat revient fréquemment avec des amis expatriés ou qui cherchent à s'installer à l'étranger. Il est grand temps d'ouvrir ce sujet, mais cette fois avec des ambitions qui dépassent un discours sentimental contre-productif et un simple diagnostic redondant, auto-complaisant et populiste.
 
@@ -28,7 +15,7 @@ Ce qui m'a motivé pour écrire cet article est une information que j'ai appris 
 
 L'expression "faux problème" n'a pas ici pour rôle de discréditer le fait que la fuite des cerveaux soit un problème grave. Le problème est bien réel: la Tunisie est parmi les pays les plus gravement atteints. Un chiffre résume tout: selon l'OCDE [2], plus de 20% des Tunisiens diplômés de l'enseignement supérieur vivent dans d'autres pays de l'OCDE.
 
-![](/images/Fuite/0.png)
+![](/assets/img/Fuite/0.png)
 
 L'expression "faux problème" est plutôt utilisée ici pour accentuer une manière inadéquate de poser la problématique.
 
@@ -54,7 +41,7 @@ Tu ne questionneras pas ce que ton chef dit. Tu ne t'indigneras pas lorsque ton 
 
 Si on énonce la solution comme suit: "arrêter la fuite des cerveaux", on serait en train d'approfondir le problème. La sémantique en révèle sur une méthode vouée à l'écher dès son énonciation. Si on tente de forcer l'arrêt de la fuite des cerveaux en fermant les voies vers l'étranger une par une, cela ne va rien résoudre. Un jeune talentueux qui reste en Tunisie sous les coups de la contrainte et du faux nationalisme simpliste, ne va être d'aucune utilité au pays, ni à personne, ni à lui-même. Et à chaque fois qu'une voie est fermée, il réussira à en ouvrir dix autres dans ce monde rétréci par la mondialisation, et dans ce monde où les plus forts savent attirer le talent, et les plus faibles ne savent que le repousser.
 
-![](/images/Fuite/1.jpg)
+![](/assets/img/Fuite/1.jpg)
 
 La meilleure solution reste pour le moment d'établir certains repères de réflexion, une fois pour toutes, et de construire des solutions pratiques dans le cadre de ces repères (liste non-exhaustive):
 
@@ -65,7 +52,7 @@ La meilleure solution reste pour le moment d'établir certains repères de réfl
 - Il est essentiel d'arrêter l'auto-complaisance quant à la qualité de notre système d'enseignement supérieur, où les enseignants sont quasiment des dieux intouchables, agissant dans l'impunité totale, sans contrôle, sans suivi, sans aucune mesure de leur performance, ce qui a créé des situations catastrophiques de négligence, dont sont victimes les étudiants qui peuvent rarement espérer avoir raison suite à l'expression d'une indignation. Ce fonctionnement a également transformé une majorité de nos unités et labos de recherche en "usines à publications" qui visent à améliorer le "score" de l'enseignant X ou Y à travers le travail des thésards, payés des montants ridicules pour travailler en plein temps sur des sujets insignifiants. Toute réforme de l'enseignement supérieur qui ignore cette impunité, qui ne fait que motiver les jeunes à aller continuer leurs études là où on fait les choses proprement, serait une autre perte de temps et de moyens.
 - Et enfin, on doit arrêter de réfléchir aux solutions avec des expressions comme "arrêter la fuite des cerveaux" et avancer vers des expressions comme "traiter l'atmosphère qui cause la fuite des cerveaux", « encourager la rétention des cerveaux", "offrir des opportunités et des encouragements". Rien que changer la sémantique serait un grand pas en avant. L'incitation positive marche toujours mieux, et on n'avancera pas un pas avant de le comprendre au niveau le plus fondamental.
 
-![](/images/Fuite/2.jpg)
+![](/assets/img/Fuite/2.jpg)
 
 Je ne pourrai mieux conclure cet article, excessivement alimenté de coups de gueule, qu'en saluant le courage et l'engagement toute personne qui garde une éthique de travail inébranlable et qui lutte, rien qu'en gardant cette éthique, contre ce système toxique qui règne sur le pays. Que vous ayez fait partie de nos cerveaux à l'étranger qui reviennent pour servir le pays, ou que vous ayez fait le choix de rester en Tunisie, merci. Enseignants du primaire, du secondaire et à l'université, travailleurs qui veillent à la perfection dans leur travail et qui partagent généreusement leur savoir, entrepreneurs ambitieux et responsables d'entreprises, d'associations et de la fonction publique pionniers par leurs efforts exceptionnels et leurs méthodes qui valorisent l'humain chez leurs partenaires et collaborateurs… Vous, mesdames et messieurs, vous êtes le rempart qui protège ce pays d'une chute libre dans le chaos. Invisibles très souvent, dans ce système où le moche teinte tout le paysage et anéantit toute beauté, vous resterez toujours cette lueur au fond du tunnel, l'espoir d'un avenir meilleur pour le pays.
 

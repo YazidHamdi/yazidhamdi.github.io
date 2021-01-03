@@ -1,18 +1,7 @@
 ---
 layout: post
 title: 3 raisons d'arrêter de tirer la sonnette d'alarme pour la fuite des cerveaux
-date: '2019-03-08T00:07:06+01:00'
-tags:
-- tunisie
-- fuite
-- cerveaux
-- immigration
-- diplomes
-- chomage
-- emploi
-- niveau de vie
-- langue de bois
-categories: stories
+tags: [tunisie, fuite, cerveaux, immigration, diplomes, chomage, emploi, niveau de vie, langue de bois, stories]
 ---
 ## Guide des responsables "choqués"
 "Tirer la sonnette d'alarme", "exprimer l'inquiétude", "reporter les chiffres choquants", etc. à en croire notre gouvernement (et tous les gouvernements qui l'ont précédé pour être honnête), on ne peut pas répondre autrement aux conséquences terribles de ce qu'on adore appeler "la fuite des cerveaux". J'aime comparer cette attitude quasi-criminellement passive de la part des responsables qui ont toutes les clés en main à ce ridicule "choqué mennek" que le raciste profère dans [l'épisode de "Hethoukom"](https://www.youtube.com/watch?v=ah7DYua2Apc) quand on lui dénonce son racisme. Il n'y a pas de quoi être choqués les gars, je vous assure.
@@ -21,7 +10,7 @@ J'avais déjà écrit [un petit article plus illustré et plus détaillé là-de
 
 Il n'y a vraiment aucune raison objective pour lister 3 raisons, mais comme c'est mon premier "listicle" je n'ai pas envie de vous ennuyer. Une liste plus complète serait certainement plus longue. J'essaye ici simplement de résumer ce que j'avais décrit en détail dans mon précèdent article sur la question.
 
-![](/images/SonnetteAlarme/0.jpg)
+![](/assets/img/SonnetteAlarme/0.jpg)
 
 ## 1) L'économie nationale n'est pas en manque de compétences qui sont en fuite
 
@@ -35,7 +24,7 @@ Un ingénieur junior, débutant, mais vraiment tout à l'heure sorti de l'univer
 
 Autre exemple: acheter une voiture neuve en Tunisie devient de plus en plus impossible. La voiture neuve la moins chère en Tunisie ([selon automobile.tn](https://www.automobile.tn/fr/neuf/chery/qq-populaire/1.0-l)) est la Chery QQ, qui coute **19990 TND** , soit presque **20 salaires mensuels** de notre ingénieur débutant en Tunisie. J'ai eu du mal à trouver le prix de cette voiture en France ou en Allemage (je vous assure), et j'ai fini par chercher la voiture neuve la moins chère en France [selon autoplus.fr](https://www.autoplus.fr/prix-neuf/?sort=price%7Cup#advanced-filters), bon il y a la Twizy électrique, mais voyons les voitures à essence: la Dacia Logan à **7900€** , soit **4 salaires mensuels** de notre ingénieur débutant en France.
 
-![](/images/SonnetteAlarme/1.jpg)
+![](/assets/img/SonnetteAlarme/1.jpg)
 
 ## 3) Le "shaming" ne marche pas:
 
@@ -45,7 +34,7 @@ Oui on part chercher la vie plus facile, oui on part chercher plus d'argent, oui
 >
 > 2. **Tout être humain est en plein droit de mettre son propre intérêt avant celui d'autrui** tant que c'est légal. Et à ce que je sache, c'est encore légal dans notre pays de vivre là où on veut et de faire ce qu'on veut de sa vie. Si tu veux retenir quelqu'un en Tunisie, offre-lui mieux, c'est le seul moyen logique et productif pour faire face à ce phénomène. Mais qu'un responsable qui se fait payer des milliers de dinars de l'argent du contribuable et se fait conduire quotidiennement en Mercedes depuis sa villa subventionnée vient dire à un jeune qui part de zéro de rester pour l'amour du pays n'est en droit d'espérer que d'être complètement ignoré.
 
-![](/images/SonnetteAlarme/2.jpg)
+![](/assets/img/SonnetteAlarme/2.jpg)
 
 Pour finir une dernière recommandation: ce n'est pas **ma** responsabilité en tant que citoyen ni celle de quelconque autre citoyen de trouver ou proposer des solutions à ce problème (s'il existe vraiment), c'est la responsabilité de nos élus et fonctionnaires de l'état qui sont payés de l'argent du contribuable pour faire ce travail.
 

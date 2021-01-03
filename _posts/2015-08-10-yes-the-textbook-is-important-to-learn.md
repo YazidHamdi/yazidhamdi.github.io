@@ -1,19 +1,12 @@
 ---
 layout: post
 title: Yes, The Textbook IS Important To Learn Development
-date: '2015-08-10T12:18:34+02:00'
-tags:
-- software
-- development
-- coding
-- learning
-- university
-categories: SE
+
+tags: [software, development, coding, learning, university, SE]
 ---
 An attempt to analyze the weaknesses of software development learning in the French system, let me know what you think:)
 [Yes, the textbook IS important to learn development](https://www.linkedin.com/pulse/yes-textbook-important-learn-development-yazid-hamdi)
 
----
 There you have it in the title.
 
 But wait a minute, isn't that so obvious that it's kinda naive to write an article about it? Well, it is. However, the fact that it took me some time after graduation to figure out how critical this is attests to the importance of this issue, because when I say "it took me", I think it's legitimate to assume it would be the case for many of my peers who graduated from the same kind of engineering schools and studied in the same system. It's really a cultural issue, as I will explain.

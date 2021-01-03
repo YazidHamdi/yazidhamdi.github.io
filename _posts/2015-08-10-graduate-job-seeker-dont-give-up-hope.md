@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Graduate Job Seeker, Don't Give Up Hope
-date: '2015-08-10T12:14:28+02:00'
-tags:
-- hr
-- management
-- employment
-- job_search
-categories: stories
+tags: [hr, management, employment, job_search, stories]
 ---
 This is an article I originally wrote on Linkedin to tackle a certain malicious HR recruitment and management style, let me know what you think:)
 [Graduate job seeker, don't give up hope](https://www.linkedin.com/pulse/youre-disappointment-recruitment-management-yazid-hamdi)
@@ -25,6 +19,6 @@ And if worse came to worst, remember you are actually getting paid for your job,
 
 Many employees who fall victim to the idea that they're being offered the job as a favor then enter a vicious cycle of "boss unsatisfaction". Basically, although we all know and agree that employees perform best through positive incentive, some managers find it more effective to keep the threat of getting fired because of bad performance (which might, and so often might not be true, basically your work is never good even if it is great) hanging over your head, making you work in a stressful environment where you do excessive overtime just to avoid getting fired. Bottom line: that attitude they gave you in the job interview will probably drag on to haunt your professional experience and make it stressful and unsatisfactory.
 
-So to you, recent graduate, or first time job seeker: you ARE worthy of whatever job you land. Don't let anyone intimidate you, don't let lack of experience and fear of losing the job reduce you to servitude.
+So to you, recent graduate, or first time job seeker: you ARE worthy of whatever job you land. Don't let anyone intimi
 
 Remember: employment is a mutually beneficial relationship, if it stops being so, or starts off by not being so in the first place, never hesitate to switch to other opportunities. And be sure, although you might lose faith sometimes, it is always possible to find a job that suits your profile and where you can find the positive environment you're looking for.

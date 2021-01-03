@@ -1,17 +1,9 @@
 ---
 layout: post
 title: Building A Gaming PC For Absolute N00bs In 2019
-date: '2019-07-28T12:31:28+02:00'
-tags:
-- pc gaming
-- pc build
-- n00b
-- guide
-- gaming hardware
-- gaming
-categories: stories
+tags: [pc gaming, pc build, n00b, guide, gaming hardware, gaming, stories]
 ---
-![](/images/GamingBuild/0.jpg)
+![](/assets/img/GamingBuild/0.jpg)
 Being a [Software Engineer](https://www.linkedin.com/in/yazidhamdi/), I have always known all there is to know about software, UI, OS tweaks, and all that fun stuff. I only worried about hardware when it came to minimum requirements to run games or other tools.
 
 Until recently, when I realized playing on my Xbox One is not good for FPS games, especially that I developed an affinity for [Apex Legends](https://www.ea.com/games/apex-legends) and was almost not too bad at it.
@@ -24,15 +16,15 @@ I needed to build a desktop gaming PC. Which I did!
 
 Behold [Saitama](https://onepunchman.fandom.com/wiki/Saitama):
 
-![](/images/GamingBuild/0.jpg)
+![](/assets/img/GamingBuild/0.jpg)
 
-![](/images/GamingBuild/1.jpg)
+![](/assets/img/GamingBuild/1.jpg)
 
 You can find the specs and pics here: [https://de.pcpartpicker.com/b/XJ3bt6](https://de.pcpartpicker.com/b/XJ3bt6)
 
 The idea behind the name was that this would be a badass gaming PC despite its being not much of a looker, like Saitama is. I ended up adding LED strips and RAM heat sinks, as well as a custom backplate for the GPU so I guess I kind of defeated the purpose of the name there.
 
-![](/images/GamingBuild/2.gif)
+![](/assets/img/GamingBuild/2.gif)
 
 Where did I start? I didn't even know the budget I would need to allocate or the pieces to buy or even how to match specs and check compatibility of hardware.
 
@@ -54,7 +46,7 @@ For this one I have a more original recipe.
 
 **At this point, you're ready to create a parts list.** The best website to do so is hands down [PC Part Picker](%5BSearch%20domain%20pcpartpicker.com%5D%20https://pcpartpicker.com).
 
-![](/images/GamingBuild/3.png)
+![](/assets/img/GamingBuild/3.png)
 
 This is a website that allows you to create builds and **checks hardware compatibility issues for you!** which is a great plus for an absolute hardware n00b. While you're building your part list, you also get **suggestions on the cheapest place to buy them** , **build guides** , **builds of other users in the community** , etc. To make informed decisions about the specs of the hardware you buy, I recommend taking a look at videos like the one below, which explain what to look for in the specs of a PC part you're planning to buy:
 
@@ -69,7 +61,7 @@ Once you have a nice list, where:
 
 (funny story, this build was for my birthday, I got all components on time except I forgot to order my 1TB SSD, which made me very mad that I won't have my PC ready that night. I ordered it - just an ssd drive - on Amazon Prime Now)
 
-![](/images/GamingBuild/4.jpg)
+![](/assets/img/GamingBuild/4.jpg)
 
 ## **Build Night**
 
