@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Graduate Job Seeker, Don't Give Up Hope
-tags: [hr, management, employment, job_search, stories]
+tags: [reflections]
+cover-img: "/assets/img/linkedin.png"
 ---
 This is an article I originally wrote on Linkedin to tackle a certain malicious HR recruitment and management style, let me know what you think:)
-[Graduate job seeker, don't give up hope](https://www.linkedin.com/pulse/youre-disappointment-recruitment-management-yazid-hamdi)
 
----
 This article is just a little attempt to warn undergraduates about a subtly evil style of recruitment and management which has become quite prevalent as getting an IT job got more competitive, which could eventually make them lose hope to find a job that matches their expectations with an employer that can provide them with a positive work environment.
 
 Back when I was hunting for my first job, mid-2014, I had so many interviews with several IT and consulting companies in France. Some were really pleasant although not necessarily successful. However after a while a certain negative pattern started to emerge: in several of the interviews I got the feeling that recruiters are excessively focusing on how unimpressed they are (although most of the time I still continue in the process), and how they will try, you know, to find a spot for me, cuz you know, I was not really what they were looking for, you know, and any offer I will get will be a chance I'll have to seize, no matter how revolting the terms might be, cuz you know, it's a crisis, you know, and we're really doing you a favor by hiring you, you know.
@@ -22,3 +21,5 @@ Many employees who fall victim to the idea that they're being offered the job as
 So to you, recent graduate, or first time job seeker: you ARE worthy of whatever job you land. Don't let anyone intimi
 
 Remember: employment is a mutually beneficial relationship, if it stops being so, or starts off by not being so in the first place, never hesitate to switch to other opportunities. And be sure, although you might lose faith sometimes, it is always possible to find a job that suits your profile and where you can find the positive environment you're looking for.
+
+Originally published [on linkedin](https://www.linkedin.com/pulse/youre-disappointment-recruitment-management-yazid-hamdi/)

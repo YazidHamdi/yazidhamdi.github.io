@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Statistics Of Server-Side Languages Used For Websites
-tags: [web development, ".net", javascript, web servers, websites, development, tehcodez, nodejs, aspmvc, SE]
+tags: [software_engineering]
+cover-img: "/assets/img/SE_header.png"
 ---
 While doing some research which would hopefully guide me through my current dilemma: "ASP MVC or Node.js?", I found an interesting statistic [here](http://w3techs.com/technologies/overview/programming_language/all).
 

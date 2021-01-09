@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Real Value of a Degree
-tags: [degree, diploma, value, credential, professional, career, education, higher education, graduate school, sethings, stories]
+tags: [reflections]
+cover-img: "/assets/img/Degree/comic.png"
 ---
 ![](/assets/img/Degree/comic.png)
 **This is an up

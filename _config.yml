@@ -14,7 +14,8 @@ author: Yazid Hamdi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Whoami: "whoami"
+  Tags: "tags"
 
 # --- Logo --- #
 
@@ -42,7 +43,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: yazidhamdi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -91,16 +92,16 @@ keywords: "Yazid Hamdi, personal blog, blog, software engineering, posts, IT, co
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#2e2e2e"
+navbar-text-col: "#d1d1d1"
+navbar-border-col: "#ffffff"
+page-col: "#1c1c1c"
+text-col: "#e8e8e8"
+link-col: "#5cb3ff"
+hover-col: "#00c3eb"
+footer-col: "#2e2e2e"
+footer-text-col: "#787878"
+footer-link-col: "#8a8a8a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 3 raisons d'arrêter de tirer la sonnette d'alarme pour la fuite des cerveaux
-tags: [tunisie, fuite, cerveaux, immigration, diplomes, chomage, emploi, niveau de vie, langue de bois, stories]
+tags: [reflections, illustrations, français, tunisia]
+cover-img: "/assets/img/SonnetteAlarme/0.jpg"
 ---
 ## Guide des responsables "choqués"
 "Tirer la sonnette d'alarme", "exprimer l'inquiétude", "reporter les chiffres choquants", etc. à en croire notre gouvernement (et tous les gouvernements qui l'ont précédé pour être honnête), on ne peut pas répondre autrement aux conséquences terribles de ce qu'on adore appeler "la fuite des cerveaux". J'aime comparer cette attitude quasi-criminellement passive de la part des responsables qui ont toutes les clés en main à ce ridicule "choqué mennek" que le raciste profère dans [l'épisode de "Hethoukom"](https://www.youtube.com/watch?v=ah7DYua2Apc) quand on lui dénonce son racisme. Il n'y a pas de quoi être choqués les gars, je vous assure.

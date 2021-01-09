@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'La Fuite Des Cerveaux En Tunisie: Ce Grand Faux Problème, Ces Grandes Fausses Solutions'
-tags: [tunisie, tunisia, cerveaux, fuite, brain drain, immigration, talent, youth, universités, économie, maghreb, stories]
+tags: [tunisia, reflections, illustrations, français]
+cover-img: "/assets/img/Fuite/0.png"
 ---
 Ce sujet n'a cessé de revenir sur la scène nationale. Il me touche personnellement car j'ai été des deux côtés de l'équation que ce problème pose, et parce que dans mon cercle social ce débat revient fréquemment avec des amis expatriés ou qui cherchent à s'installer à l'étranger. Il est grand temps d'ouvrir ce sujet, mais cette fois avec des ambitions qui dépassent un discours sentimental contre-productif et un simple diagnostic redondant, auto-complaisant et populiste.
 

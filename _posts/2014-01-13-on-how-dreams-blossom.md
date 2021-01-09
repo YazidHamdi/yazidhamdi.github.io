@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On How Dreams Blossom
-tags: [toulouse , tunisia , adai , success-story , student-life, stories]
+tags: [personal, tunisia]
+cover-img: "/assets/img/Dreams/adai_toulouse.jpg"
 ---
 Today is a happy day. Back when I was studying in Toulouse, and more precisely in 2010, several students having studied at [IPEST](http://www.ipest.rnu.tn) (my graduate scientific prep school in Tunisia) and I decided to found a local Toulouse branch of the[ADAI](http://www.ipestien.org/) (IPEST Alumni Association) since there were many of us in Toulouse at the time. This was of course motivated (and in a way suggested) by the ADAI officials in Paris, home of the association and kind of its geographical playground.
 

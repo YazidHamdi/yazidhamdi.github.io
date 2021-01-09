@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Baby Boomer, X, Y, Millennial. Seriously?
-tags: [millennials, generation x, generation y, babybomers, debate, linkedin, culture, personality, labels, prejudice, age segregation, stories]
+tags: [reflections]
+cover-img: "/assets/img/linkedin.png"
 ---
 I'm sure you encountered these terms multiple times in the last few years, in a time when the cultural transition from the old suit-and-tie business culture to the jeans-and-tee-shirt type business, from Steve Ballmer to Satya Nadella, from Blackberry to Adnroid was happening. You know, the general agilization of things, the cool down from horrific patent battles to a more compromising and collaborative culture. We are indeed at a point in culture, business and tech history where major changes are maturing, since they started happening shrouded in doubt about a decade ago.
 
@@ -16,3 +17,5 @@ But what is most alarming is that my Linkedin feed is starting to fill with arti
 So here it is: this is pure age-based profiling, which is not serious or grown-up at all. Need I even argue that this classification offers no concrete profile for a person you have yet to meet and exchange with? Here's an attempt: I am a 27-year-old Software Engineer, born in Tunisia, lived in France for a while, traveled around, done community work, typical geek multicultural Y. Favorite music? Dubstep, trap step, 110bpm genres, instrumental epics, typical millennial distorted sound waves junkie. What's my long-term goal? Invent something awesome, develop a startup, profit, like a typical big-dreaming Y/millennial, oh but my ultimate dream? Surprise: own an olive farm in Tunisia and have a solar-energy-powered home with a small well and a cool eco waste management system, X much? Even baby boomer-ish. Do I want to "boom babies" around? Nope. Classify this, smarty pants.
 
 One final thought: this is a classic fake debate hype that will go away once enough people start denouncing it and seeing it for the major waste of time it is, and it saddens me that after culturally developing anti-labelling and prejudice reflexes, we are still faced with these sneaky prejudice-filled hype-inducing bad thought bubbles. We have a long way to go before acknowledging individuals for who they are individually, in spite of the progress we think we are making.
+
+Originally published [on linkedin](https://www.linkedin.com/pulse/baby-boomer-x-y-millennial-seriously-yazid-hamdi/)

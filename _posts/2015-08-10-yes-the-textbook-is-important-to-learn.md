@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Yes, The Textbook IS Important To Learn Development
-
-tags: [software, development, coding, learning, university, SE]
+tags: [reflections, software_engineering]
+cover-img: "/assets/img/linkedin.png"
 ---
 An attempt to analyze the weaknesses of software development learning in the French system, let me know what you think:)
-[Yes, the textbook IS important to learn development](https://www.linkedin.com/pulse/yes-textbook-important-learn-development-yazid-hamdi)
 
 There you have it in the title.
 
@@ -25,3 +24,5 @@ Also, and these are final subjective recommendations:
 
 * English is your friend. Reading textbooks in English is almost a must, since most (if not all) the technology being dealt with originates in English-speaking countries, mainly the US. It is the language of CS and software development everywhere, and sooner or later (if you don't want to be left behind that is) you'll have to shift to the English terminology. Translated versions or books in languages other than English in general are bad because they set you aside from the community's terminology (present in online forums, products documentation, etc...), thus hurting your ability to communicate with other developers, and also because in terms of publication, there is often a delay between the English literature publications and the other languages' publications, so you'll be forced to be several months behind.
 * Try to pick your textbooks from sources with creator/contributor credentials when you make your choices. These people are often the ones who understand the technology/methodology most and who are bound to provide unique perspectives that no one else no matter how senior can provide.
+
+Originally published [on linkedin](https://www.linkedin.com/pulse/yes-textbook-important-learn-development-yazid-hamdi/)

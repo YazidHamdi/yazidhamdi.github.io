@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Software Engineering: why it is more than coding, and why it is necessary'
-tags: [sethings, software engineering, coding, slideshare, tehcodez, projects, SE]
+tags: [software_engineering]
+cover-img: "/assets/img/SE_header.png"
 ---
 ![](/assets/img/SEPresentation/slide.png)
 

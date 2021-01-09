@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quick update
-tags: [update, cmu, carnegie_mellon, software, engineering, writers_block, not_a_writer, not_a_reblog, pittsburgh, pennsylvania, it_depends, stories]
+tags: [personal]
+cover-img: "/assets/img/QuickUpdate/meme.jpg"
 ---
-Hey hey lonely troll/honorable HR professional reading this!
 This year started with me working on web development/windows 8 development projects for Sopra Steria, and is ending with me finishing my [Software Engineering Master's](http://mse.isri.cmu.edu/software-engineering/web3-programs/MSIT-SE/index.html) first semester at [Carnegie Mellon University](https://www.cmu.edu/) (I repeat: Carnegie, Mellon, University. Even I still get that tingle from the name, and can't quite believe it yet, although now I also get bad memories of sleep-deprivation and roommate quarrels, but also good ones of secret Santa and cupcakes!).
 
 ![](/assets/img/QuickUpdate/meme.jpg)

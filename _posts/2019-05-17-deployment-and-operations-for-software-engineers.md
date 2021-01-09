@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Deployment and Operations for Software Engineers
-tags: [devops, development, web development, software engineering, sethings, operations, security, projects]
+tags: [software_engineering]
+cover-img: "/assets/img/SE_header.png"
 ---
 Happy to receive my copy of [Len Bass](https://www.linkedin.com/in/len-bass-7198169/) and [John Klein](https://www.linkedin.com/in/johnrklein/)'s new book, "Deployment and Operations for Software Engineers", which I had the pleasure of reviewing prior to publication.
 

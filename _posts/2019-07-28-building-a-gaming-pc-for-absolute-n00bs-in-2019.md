@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building A Gaming PC For Absolute N00bs In 2019
-tags: [pc gaming, pc build, n00b, guide, gaming hardware, gaming, stories]
+tags: [personal]
+cover-img: "/assets/img/GamingBuild/0.jpg"
 ---
-![](/assets/img/GamingBuild/0.jpg)
 Being a [Software Engineer](https://www.linkedin.com/in/yazidhamdi/), I have always known all there is to know about software, UI, OS tweaks, and all that fun stuff. I only worried about hardware when it came to minimum requirements to run games or other tools.
 
 Until recently, when I realized playing on my Xbox One is not good for FPS games, especially that I developed an affinity for [Apex Legends](https://www.ea.com/games/apex-legends) and was almost not too bad at it.
@@ -61,7 +61,7 @@ Once you have a nice list, where:
 
 (funny story, this build was for my birthday, I got all components on time except I forgot to order my 1TB SSD, which made me very mad that I won't have my PC ready that night. I ordered it - just an ssd drive - on Amazon Prime Now)
 
-![](/assets/img/GamingBuild/4.jpg)
+![](/assets/img/GamingBuild/4.png)
 
 ## **Build Night**
 

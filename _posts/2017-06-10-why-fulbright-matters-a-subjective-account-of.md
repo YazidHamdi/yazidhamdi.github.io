@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 'Why Fulbright Matters: A Subjective Account of Randomly Consistent Facts'
-
-tags: [fulbright, fulbright scholar, budget2017, trump budget, budget cut, cultural understanding, strategic networking, scholarship, stories]
+tags: [personal, reflections]
+cover-img: "/assets/img/Fulbright/0.jpg"
 ---
-![](/assets/img/Fulbright/0.jpg)
 Being the good old procrastinating developer who has 10 million ideas none of which is finished and most of which are not even started, I've been trying to write an article about the Fulbright program, my experience as a Fulbright scholar so far and some thoughts about its value. But a chance never came: I was busy fighting code bugs with a laser saber it was simply a headache to try to summarize such an intense experience in one article without making it a long boring "yet another PR piece".
 
 Recently however, news came that the Trump administration is planning a huge budget cut to the Fulbright program. This made the idea for this article resurface in my mind and start to take shape.

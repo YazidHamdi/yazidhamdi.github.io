@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Asynchronous Listener Simulation In .Net
-tags: [multithreading, concurrent programming, message queue, listener, ".net", csharp, tehcodez, SE]
+tags: [software_engineering]
+cover-img: "/assets/img/SE_header.png"
 ---
 Today I had a discussion about how one would implement a program that listens to some input (typically in a high frequency text message scenario), stores that input and asynchronously consumes elements from the message queue with some business logic behind the consumption. This program would be implemented in C# with .Net.
 The problem sounded interesting so I took a shot at writing a simulated example, which implements the required behavior and displays live stats (received, consumed, and total message counts).

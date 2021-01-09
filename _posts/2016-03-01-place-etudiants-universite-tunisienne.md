@@ -1,7 +1,8 @@
 ---
 layout: post
 title: De la place des étudiants dans le développement de l'université Tunisienne
-tags: [universités, tunisie, ensit, tunis, études, étudiants, association, stories]
+tags: [reflections, français, tunisia]
+cover-img: "/assets/img/PlaceEtudiants/article.png"
 ---
  **Par la tradition et la convention, et à quelques exceptions près** , l'université Tunisienne fonctionne selon un système qui marque une rupture radicale de mentalités entre les étudiants et leurs enseignants. Certes, selon les narratives "d'excellence" et autres illusions et sophismes, l'université Tunisienne est une école de savoir, de savoir-faire et de savoir-être qui fonctionne bien comme il faut. Mais tout étudiant qui a passé ses années dans les couloirs d'une école ou faculté Tunisienne saura que ce n'est que rarement vrai.
 
