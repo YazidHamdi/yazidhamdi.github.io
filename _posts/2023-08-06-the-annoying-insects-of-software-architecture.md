@@ -4,12 +4,11 @@ title: '8 Annoying Insects of Software Architecture'
 tags: [software_engineering]
 cover-img: "/assets/img/SE_header.jpeg"
 ---
-For some reason I remembered the [Dangerous Animals of Product Management](https://www.productboard.com/blog/dangerous-animals-product-management-infographic/) today and kept wondering what a similar concept would look like for software architecture. That prompted a whole sequence of memories from my previous roles, where I had to deal with multiple, sometimes great, sometimes annoying software architects. Going with the annoying theme, I turned it from animals to insects, the champions of annoyance.
+For some reason I remembered the [Dangerous Animals of Product Management](https://www.productboard.com/blog/dangerous-animals-product-management-infographic/) today and kept wondering what a similar concept would look like for software architecture/architects. That prompted a whole sequence of memories from my previous roles, where I had to deal with multiple, sometimes great, sometimes annoying software architects. Going with the annoying theme, I turned it from animals to insects, the champions of annoyance.
 
+With the help of ChatGPT (I don't know much about insects to be honest) I came up with 8 personas illustrating things I observed in the industry, and even generated some illustrations for them with Bing Image Creator (a better Dall-E).
 
-With the help of ChatGPT (I don't know much about insects to be honest) I came up with 8 personas illustrating things I observed in the industry, and even generated some illustrations for them with Bing Image Creator (Dall-E but better).
-
-If the tone didn't already make this clear, this is a satirical post aiming to poke fun at stereotypical characteristics of software architects, of many of which I am guilty! Have fun and don't take it too seriously 😁
+If the tone didn't already make this clear, this is a satirical post aiming to poke fun at stereotypical characteristics of software architects, of many of which I am personally guilty! Have fun and don't take it too seriously 😁
 
 So here goes:
 
@@ -20,7 +19,7 @@ So here goes:
 
 ![](/assets/img/SoftwareArchitectureInsects/mosquito-bing.jpeg)
 
-I'm sure you know exactly what I'm talking about, the silver-bullet architect, the one who has a plugin/package/module/service of their stack for every purpose for which another better more-fitting less-obscure stack exists. This architect starts with the solution and works back into the design and requirements, which is, annoying, and not good.
+I'm sure you know exactly what I'm talking about, the silver-bullet architect, the one who has a plugin/package/module/service of his stack for every purpose for which another better more-fitting less-obscure stack exists. This architect starts with the solution and works back into the design and requirements, which is, annoying, and not good.
 
 # 2. The Bulldozing Beetle
 aka. "jet-propelled Joey"
@@ -41,7 +40,7 @@ This architect embeds himself deep in the project by deferring all decisions to 
 
 ![](/assets/img/SoftwareArchitectureInsects/ant-bing.jpeg)
 
-This architect is a developer's worst nightmare, one who intervenes in every single detail even the ones that have nothing to do with system attributes or architectural decisions. Everything affects performance, everything breaks scalability, that little frontend enum needs to be right, those for loops need to be while loops, otherwise it doesn't work for our esteemed colleague in charge.
+This architect is a developer's worst nightmare, one who intervenes in every single detail even the ones that have nothing to do with system attributes or architectural decisions. Everything affects performance, everything breaks scalability, that little frontend enum needs to be just right, those for loops need to be while loops, otherwise it doesn't work for his majesty.
 
 # 5. The Flighty Butterfly 
 aka. "will he won't he Willy"
@@ -55,14 +54,14 @@ This architect is puzzled, hesitant, decides something today, changes it tomorro
 
 ![](/assets/img/SoftwareArchitectureInsects/moth-bing.jpeg)
 
-This architect should probably not even be called that, since they basically just force the latest (that they saw that morning on Hacker News or Dev.to) and greatest (well...) on every problem they encounter, don't even worry about "why", that's not how this works. He's best friends with the Bulldozing Beetle, and the sworn enemy of our next insect.
+This architect should probably not even be called that, since he basically just forces the latest (that he saw that morning on Hacker News or Dev.to) and greatest (well...) on every problem he encounters, don't even worry about "why", that's not how this works. He's best friends with the Bulldozing Beetle, and the sworn enemy of our next insect.
 
 # The Eternal Cockroach
 "so the client wants us to update balance sheets to reflect transactions in real time" - "I've got a COBOL program for that, hang on let me find it" \*blows dust off an old IBM mainframe\*
 
 ![](/assets/img/SoftwareArchitectureInsects/cockroach-bing.jpeg)
 
-As his name indicates, this architect survived every wave of technology without learning anything new, they hang to old technology with all their strengths and won't let go. In the best case scenario, they can write you a Pong Game from scratch using Pascal, in the worst case, they just do a lot of lecturing and no coding in a cosy enterprise job they can't be fired from just for the sheer amount of severance the company would have to pay.
+As his name indicates, this architect survived every wave of technology without learning anything new, he hangs to old technology with all his strength and won't let go. In the best case scenario, he can write you a Pong Game from scratch using Pascal, in the worst case scenario, he just does a lot of lecturing and no coding in a cosy enterprise job he can't be fired from just for the sheer amount of severance the company would have to pay.
 
 # The Isolating Spider
 \*knits for 6 months without sending an Email\* "heyyyy I thought I was supposed to be working on that, look at this full solution I made single-handedly in my corner"
