@@ -27,7 +27,7 @@ aka. "jet-propelled Joey"
 
 ![](/assets/img/SoftwareArchitectureInsects/beetle-bing.jpeg)
 
-Clients love him (or his promises of quick delivery), developers don't like him (and his current "this is trivial, just use X" statements) and his inevitable changes of heart. Essentially an architect who likes to think he gets it right the first time, overcommits, pushes forward, only to discover issues and bulldoze an overcomplicated design to start a new one.
+Clients love him (or his promises of quick delivery), developers don't like him (and his recurrent "this is trivial, just use X" statements) and his inevitable changes of heart. Essentially an architect who likes to think he gets it right the first time, overcommits, pushes forward, only to discover issues and bulldoze an overcomplicated design to start a new one.
 
 # 3. The Lurking Tick
 "it'll work, trust me". "But what if?" - "no, I said it'll work, just trust me"
