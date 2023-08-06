@@ -3,7 +3,7 @@ layout: page
 title: Whoami
 permalink: /whoami/
 ---
-Yazid Hamdi, a Tunisian software engineer living in Berlin, an internet junkie and apparently a very talkative dude.
+Yazid Hamdi, a Tunisian software engineer living in Berlin, an internet junkie and apparently a very talkative dude with moderately interesting things to say.
 
 I often fail to self-describe, as is the case in this description, since my wastes of time are so numerous and diverse: gaming, motorcycles, books, sports, just walking in empty quiet places, writing with a very VERY inconsistent frequency, diy and building model toys, coding and web development, etc.
 
