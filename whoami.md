@@ -3,10 +3,14 @@ layout: page
 title: Whoami
 permalink: /whoami/
 ---
-Yazid Hamdi, a Tunisian software engineer living in Berlin, an internet junkie and apparently a very talkative dude with moderately interesting things to say.
+I'm Yazid, a Fulbright scholar with an MS in Information Technology - Software Engineering from Carnegie Mellon University and currently working as the CTO of Troutwood LLC. I am also a member of the Carnegie Mellon Universitty Masters of Software Engineering Alumni Advisory Board.
 
-I often fail to self-describe, as is the case in this description, since my wastes of time are so numerous and diverse: gaming, motorcycles, books, sports, just walking in empty quiet places, writing with a very VERY inconsistent frequency, diy and building model toys, coding and web development, etc.
+I kicked off my professional career in 2012 and have lent my skills to organizations like Siemens, the Max Planck Society, Airbus, and Volkswagen, as a software engineer, software architect and development team leader.
 
-I speak Arabic, French and English pretty well and am getting there with German. I like to think I make cool useful software and hardware systems, and aspire to get a classic car/motorcycle and work on it and later in life to retire in a solar-powered olive and sheep farm somewhere warm in the heartland of Tunisia, with fiber (or maybe satellite?) internet connection and a [Land Cruiser](https://www.urbandictionary.com/define.php?term=Land+Cruiser) parked in front of the house.
+I'm proficient in multiple programming languages (and human languages too!), frameworks, cloud, and AI, and have extensive hands-on experience in DevOps, software architecture and software team leadership.
+
+I love reading and writing about software engineering and tech in general, mentoring aspiring developers, and driving innovation in my teams.
+
+Outside of work, I'm into motorcycles, diy, martial arts, and archery.
 
 Use [yo](mailto:yo@yazid.xyz) to contact me.
