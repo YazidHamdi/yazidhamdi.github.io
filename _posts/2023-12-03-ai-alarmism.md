@@ -32,3 +32,17 @@ An AI seeking to enact any sort of change in the world, beyond the confines of i
 AN AI CANNOT DO WHAT WE DON'T ALLOW IT TO DO
 We: humanity must unite, a code of ethics must be created, a code of labeling AI actions is necessary
 Allow: there must be a standard for controlling AI-labeled actions. A ubiquitous standard stating levels of access and authorized actions for each level of access for an AI would be useful. If an AI of level 3 it's allowed access within a network with cyber-physical devices, it must not do X, Y or Z, if 
+
+
+
+Your blog post draft covers a range of important topics related to AI safety and security. Here's some research and references on the various ideas, incidents, and concepts you mentioned:
+
+Elon Musk's AI Alarmism: Elon Musk has repeatedly expressed concerns about the risks of AI, describing it as one of the biggest threats to humanity. He has compared AI to nuclear bombs in terms of danger and has advocated for regulation and public awareness​​​​​​​​​​.
+
+Roko's Basilisk: This thought experiment suggests a hypothetical scenario where a future AI punishes those who did not help bring it into existence. Originating from the LessWrong forum, it has been a subject of significant debate and controversy. The concept raises questions about the ethical design of AI and the possible consequences of its development​​​​​​.
+
+Catastrophic AI Risks: The Center for AI Safety has outlined various risks associated with AI, including bias perpetuation, autonomous weapons, misinformation, cyberattacks, and the risk of AI systems acting independently or against human values. The potential for AI systems to exhibit unexpected behavior and lose human control is a significant concern, as is their use in weaponization and misinformation campaigns​​​​​​.
+
+IT Security Measures Against AI Threats: Microsoft has developed an AI security risk assessment framework and the Counterfit tool to improve the security of AI systems. This approach includes assessing the entire AI system lifecycle, understanding machine learning threats, and providing best practices for securing AI systems. Microsoft also emphasizes the importance of a collaborative approach involving various stakeholders in securing AI systems​​.
+
+These references should provide a robust foundation for the ideas and concerns you've addressed in your draft. Each source offers detailed insights into the specific areas you're discussing, from the public discourse on AI risks led by figures like Elon Musk to practical measures for managing AI security risks.
