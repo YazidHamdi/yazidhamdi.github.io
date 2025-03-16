@@ -1,0 +1,7 @@
+---
+layout: post
+title: '"Job Security Coding" Is Never A Good Idea'
+tags: [software_engineering]
+cover-img: "/assets/img/SE_header.png"
+---
+It is almost a universal experience for any developer who has worked in the industry for a few years to observe "job security coding", a coding style that introduces deliberate (although that aspect may not be obvious) complexity, ambiguity and undocumented technical debt to ensure that if the day comes when someone would take over the code base, they will not be able to work on it without weeks (if not months) of reverse-engineering, thus guaranteeing the continuity of employment. This style of coding will of course not fulfill its purpose until executed specifically on high value in-production code, because that makes a viable bargaining chip, as opposed to an unimportant project/product that can be easily scrapped. And if you are a young up and coming developer, your exposure to this will be on the receiving side, meaning you will not be writing such code but rather assigned to work on such code in the hope of "jailbreaking" it from the clenched fists of the usually older developer who wants none else to understand and take control of the code base.
