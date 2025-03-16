@@ -2,7 +2,7 @@
 layout: post
 title: 'Ambiguous Artisan Or Cold Robot: How Much Engineering Does Your Software Really Need?'
 tags: [software_engineering]
-cover-img: "/assets/img/SE_header.jpeg"
+cover-img: "/assets/img/SE_header.png"
 ---
 A recurring question in software engineering leadership is: how much process does your engineering team actually need?
 
