@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Job Security Coding" Is Never A Good Idea'
+title: '"Job Security Coding" In The Age of Vibe Coding'
 tags: [software_engineering]
 cover-img: "/assets/img/SE_header.png"
 ---
