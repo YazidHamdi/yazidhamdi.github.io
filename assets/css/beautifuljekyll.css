@@ -993,3 +993,22 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+/* --- Custom width adjustments for 80% viewport --- */
+
+/* Override Bootstrap container to use 80% width on larger screens */
+@media (min-width: 768px) {
+  .container-md:not(.full-width-container) {
+    width: 60%;
+    max-width: 60%;
+  }
+  
+  /* Override Bootstrap grid column classes to use full width within the 80% container */
+  .container-md:not(.full-width-container) .col-xl-8.offset-xl-2,
+  .container-md:not(.full-width-container) .col-lg-10.offset-lg-1 {
+    width: 100%;
+    margin-left: 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
