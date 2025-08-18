@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ambiguous Artisan Or Cold Robot: How Much Engineering Does Your Software Really Need?'
+title: 'Vibey Artisan Or Cold Robot: How Much Engineering Does Your Software Really Need?'
 tags: [software_engineering]
 cover-img: "/assets/img/SE_header.png"
 ---
