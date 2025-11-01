@@ -15,6 +15,7 @@ author: Yazid Hamdi
 
 navbar-links:
   Whoami: "whoami"
+  Motorcycle: "motorcycle"
   Tags: "tags"
 
 # --- Logo --- #
@@ -222,3 +223,4 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+youtube_api_key: "AIzaSyBejXnx8CKGLzFBSADJ9KSptGFLS1IYzcE"
