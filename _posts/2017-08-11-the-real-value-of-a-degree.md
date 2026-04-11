@@ -5,7 +5,6 @@ tags: [reflections]
 cover-img: "/assets/img/Degree/comic.png"
 ---
 ![](/assets/img/Degree/comic.png)
-**This is an up
 
 In 12 months here, at the [Institute for Software Research](http://www.isri.cmu.edu) [master programs](http://mse.isri.cmu.edu/software-engineering/index.html) "cave" (it's actually a really cool facility, we just like to call it a cave like all the SE students did before us), **I learned more than what any uselessly exhausting, principle-and-reflection-free, "constant chaotic firefighting mode" professional experience would have taught me**. And as a confirmed 90s geek, I will go ahead and quote Neo from the Matrix: "I know Kung Fu", although in my case it was not a simple "hit enter" action, it was probably the 12 most challenging months of my life.
 

@@ -955,7 +955,15 @@ pre {
   margin-top: 0;
 }
 
-.blog-post img {
+.blog-post p,
+.page-content p {
+  text-align: justify;
+}
+
+.blog-post img,
+.page-content img {
+  display: block;
+  margin: 0.75rem auto;
   max-width: 100%;
 }
 
