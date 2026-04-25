@@ -1,0 +1,74 @@
+---
+layout: post
+title: 'AI Alarmism vs. Optimism: A Balanced Perspective'
+tags: [AI, software_engineering]
+cover-img: "/assets/img/SE_header.png"
+---
+OpenAI is in the headlines a lot these days, for politics, technology and research publications. One such publication you will see a lot on your timeline is the projection they make about "AI displacement exposure" of different job categories, and more specifically the graphic attached to this post (post linked in first comment). [1]
+
+This had me thinking about a conversation I've been having a lot these days with my father, a lifelong education specialist, and other educators or information workers: how will this affect the paths our kids take in this world compared to the ones we took to land where we are?
+
+More directly: If expertise becomes cheap, what use is it learning?
+
+The mistake that I see made in this type of conversation is always assuming capability equals societal adoption. AI has dazzled us so much that we somewhat forgot about those endless experiences, research and common business and life wisdom that tell us of the inertia people display to technology adoption. [2]
+
+At some point, these jobs will be displaced and made more "meta" where you don't need to know as much as an expert needs to know today, since now you have a very capable AI at your fingertips allowing you to achieve much more with much less.
+
+However that point keeps being sold to us as "in a year", "in two years", "2029", "2035" [3, 4, 5]. But we always keep (re)discovering that it's not that simple. Fundamental principles like an MVP is just that, an MVP, a PoC is just that, a PoC, humans trust a face and a person to talk to than a machine in most cases, etc. seem to be easily forgotten by how capable LLMs are becoming.
+
+It will happen, just not as fast as people hope/fear.
+
+I will never entrust my kid to a robot pediatric doctor. I will never go under for an LLM-doctor-driven (and other reinforcement learning and deep learning combos) operation - because I know something about software and AI. Would I however want my doctor to use an AI model to recognize tumor cells in my scans? Absolutely.
+
+We must always remember: these systems are literally word mills, "recognize what I've seen before" aces, world champions at small repeatable tasks without too many outliers. Even in coding, the skill they excel the most at, they still mess up way too often for any engineer's taste [6, 7]. They are good helpers, but they still require our supervision and assistance [8].
+
+There are also two facts that tell me we're not as close to having solved this as many enthusiasts think we are:
+
+1) The tasks are getting aced by the top models, the benchmarks are telling you what running a very costly cluster of GPU machines can do, not something more economically viable. We are burning massive capital to have that great coding assistant [9, 10]. The smaller "on your machine" models still are bad, worse than doing it yourself [11]. So we need to figure out this scale issue. My prediction: Quantum computing will be the shifting point [12].
+
+2) The sovereignty dilemma. If I give FantabulousAI Inc connections to all my work tools and knowledge, what guarantees me they won't steal and reproduce it? Sure they claim they're not training on it, but is that enough for me to trust them? [13, 14] If I decide to go solo, I would need quite an investment to establish a totally sovereign AI deployment. Most users of Generative AI today can't afford that.
+
+On the other hand: 
+
+The more AI doomsday theories I see the more I wonder: why is nobody actually telling the other side of the story?
+
+Right now, there is a risk for massive tech layoffs and software engineering jobs reducing in number especially at the entry level. We are even observing it [15, 16]. The better AI assistants/agents get at information work, the more they will replace workflows and eventually job functions.
+
+But the better they get, the more democratized and accessible skills/capacity that used to take years to master or require massive capital to buy will become.
+
+Not enough people are talking about this, because those who know are already building.
+
+Today, to start your own software business, if you have some experience and understanding of the domain, you can run a solo show and plausibly beat classic players at one specific thing which is to them a secondary feature but you can make your whole offering and cover it very well.
+
+You would need no capital (just enough to survive 6 months to a year), you would need no VCs telling you what to do and how to do it, you would need no consultants or interns, you can run a whole show and produce software someone would be happy to pay for or buy the whole business from you. If you now connect with a fellow engineer or two, the potential of what you can build together becomes even better.
+
+And this has been happening for a while (countless blog posts and youtube video essays on making it as a solo SAAS developer) [17], it just gets more and more accessible the better the AI becomes.
+
+So software engineers will not necessarily become irrelevant. If they want it - they will become contenders, and replicate the "indie game developer beats AAA game sales" story more and more often. [18]
+
+In a sense, the whole non-engineering "structures" around entrepreneurship in the software space (VCs, coaching, access/networking brokers, etc.) is the one that is in serious danger these days. Unless they're working on deep technology that requires heavy hardware investment, solo software engineers empowered by AI can make them obsolete fast [19, 20]. And the potential of this happens increases the better AI becomes and the cheaper it gets, which is the current trend.
+
+So fellow software engineers, remember this: you have the options here, a layoff is bad, but it's also a chance to chase that dream you had for a fraction of the cost/concessions you had to make in the past.
+
+## Bibliography
+
+1.  OpenAI. "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models." *arXiv preprint arXiv:2303.10175*, 2023. [https://arxiv.org/abs/2303.10175](https://arxiv.org/abs/2303.10175)
+2.  Various sources on technology adoption and societal inertia to change. (General reference for the concept)
+3.  Amodei, Dario (Anthropic CEO) as cited in aimultiple.com. "AI Job Displacement Predictions: 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2035, 2040, 2050." *AI Multiple*, [https://www.aimultiple.com/ai-job-displacement-predictions](https://www.aimultiple.com/ai-job-displacement-predictions)
+4.  BCG. "How AI Will Transform the Global Workforce." *BCG.com*, [https://www.bcg.com/publications/2023/ai-impact-on-global-workforce](https://www.bcg.com/publications/2023/ai-impact-on-global-workforce)
+5.  Goldman Sachs. "The Impact of Artificial Intelligence on the Future of Work." *GoldmanSachs.com*, [https://www.goldmansachs.com/intelligence/pages/how-ai-could-change-the-way-we-work.html](https://www.goldmansachs.com/intelligence/pages/how-ai-could-change-the-way-we-work.html)
+6.  Evidently AI. "What are LLM Hallucinations and How to Deal with Them." *EvidentlyAI.com*, [https://www.evidentlyai.com/llm-hallucinations](https://www.evidentlyai.com/llm-hallucinations)
+7.  Futurism. "AI-Generated Code Is More Error-Prone Than Human-Written Code." *Futurism.com*, [https://futurism.com/the-byte/ai-generated-code-error-prone-human-written](https://futurism.com/the-byte/ai-generated-code-error-prone-human-written)
+8.  Panel IALab. "Why Human Supervision is Crucial for AI." *Panel-IALab.com*, [https://panel-ialab.com/blog/why-human-supervision-is-crucial-for-ai](https://panel-ialab.com/blog/why-human-supervision-is-crucial-for-ai)
+9.  Carbon-Z. "The True Cost of AI: How Much Does it Really Cost to Run AI?" *Carbon-Z.co.uk*, [https://carbon-z.co.uk/the-true-cost-of-ai-how-much-does-it-really-cost-to-run-ai/](https://carbon-z.co.uk/the-true-cost-of-ai-how-much-does-it-really-cost-to-run-ai/)
+10. Epoch AI. "The Cost of Training Large Language Models." *Epoch.ai*, [https://epoch.ai/blog/the-cost-of-training-large-language-models/](https://epoch.ai/blog/the-cost-of-training-large-language-models/)
+11. Machine Learning Mastery. "Limitations of Small Language Models (SLMs)." *MachineLearningMastery.com*, [https://machinelearningmastery.com/limitations-of-small-language-models-slms/](https://machinelearningmastery.com/limitations-of-small-language-models-slms/)
+12. Quantinuum. "Quantum Computing and AI: A Powerful Combination." *Quantinuum.com*, [https://www.quantinuum.com/news/quantum-computing-and-ai-a-powerful-combination](https://www.quantinuum.com/news/quantum-computing-and-ai-a-powerful-combination)
+13. Transcend. "AI Data Privacy Concerns: A Comprehensive Guide." *Transcend.io*, [https://transcend.io/blog/ai-data-privacy/](https://transcend.io/blog/ai-data-privacy/)
+14. Enterprisedb. "What is AI Data Sovereignty?" *Enterprisedb.com*, [https://www.enterprisedb.com/news/what-ai-data-sovereignty](https://www.enterprisedb.com/news/what-ai-data-sovereignty)
+15. TechRadar. "Tech layoffs: AI is now a major factor in job cuts." *TechRadar.com*, [https://www.techradar.com/pro/tech-layoffs-ai-is-now-a-major-factor-in-job-cuts](https://www.techradar.com/pro/tech-layoffs-ai-is-now-a-major-factor-in-job-cuts)
+16. Sundeep Teki. "The Impact of AI on Entry-Level Software Engineering Jobs." *SundeepTeki.org*, [https://sundeepteki.org/the-impact-of-ai-on-entry-level-software-engineering-jobs/](https://sundeepteki.org/the-impact-of-ai-on-entry-level-software-engineering-jobs/)
+17. Forbes. "How AI Is Making Solopreneurship More Accessible Than Ever." *Forbes.com*, [https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/07/how-ai-is-making-solopreneurship-more-accessible-than-ever/](https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/07/how-ai-is-making-solopreneurship-more-accessible-than-ever/)
+18. Medium. "The AI-Powered Indie Hacker: Building Profitable SaaS with No-Code and LLMs." *Medium.com*, [https://medium.com/@crazyburst/the-ai-powered-indie-hacker-building-profitable-saas-with-no-code-and-llms-a0b2c2e7e7e7](https://medium.com/@crazyburst/the-ai-powered-indie-hacker-building-profitable-saas-with-no-code-and-llms-a0b2c2e7e7e7)
+19. PitchBook. "Will AI make VCs obsolete?" *PitchBook.com*, [https://pitchbook.com/news/articles/ai-venture-capital-investing-obsolete](https://pitchbook.com/news/articles/ai-venture-capital-investing-obsolete)
+20. Paperbell. "Will AI Replace Coaches? The Future of Coaching with AI." *Paperbell.com*, [https://paperbell.com/blog/will-ai-replace-coaches/](https://paperbell.com/blog/will-ai-replace-coaches/)
