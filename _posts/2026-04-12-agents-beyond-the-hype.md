@@ -85,7 +85,7 @@ So for now we're stuck with glorified workflow management software with an "LLM"
 
 People forget, but the last time we did this, you needed the subscription to the SaaS, the guy who sits down and slowly and painfully maps out your processes, then creates the flowcharts, then debugs the process execution, then maybe a couple of months later delivers a limited set of pre-determined workflows that work, but are not robust to changes or breaking integrations, thus tying you up in a maintenance contract and a long-term **✨yet another tool to maintain that's also too painful to drop after all the time and effort we invested into it✨** ™️.
 
-We don't yet have "an agent that makes agents" yet. We will have it at some point, but we don't have it yet.
+We don't have "an agent that makes agents" yet. We will have it at some point, but we don't have it **yet**.
 
 The best we can do is to simulate it via "my agent instantiating sub-agents" which is (to anyone who knows) your AI assistant prompting itself concurrently to execute different parts of the task under different contexts/prompts/"personas".
 
