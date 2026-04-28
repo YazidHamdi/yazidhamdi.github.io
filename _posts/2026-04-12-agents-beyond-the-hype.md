@@ -172,7 +172,7 @@ If I had to summarize it, I would recommend three things:
 
 # Final thoughts
 
-So why am I actually so worked up about this all? Can't I just let people be happy and name things however they want and dream a little?
+So why am I actually so worked up about all of this? Can't I just let people be happy and name things however they want and dream a little?
 
 It would be fine if it were just that, but what's happening right now is malicious use of this language to overpromise and underdeliver, and in the process make massive profits from what is essentially **deception**.
 
