@@ -63,7 +63,7 @@ This train of thought is not original either, because this whole thing is happen
 
 # The false promise
 
-In a nutshell, **1)easy**, and **2)ubiquitous** automation is what's being promised here. Sure it can summarize your calendar, but it can do much more if you want it to. Literally everything possible for you to do with a computer today. No really, that's really what these things ~~could~~ **can** do.
+In a nutshell, **1) easy**, and **2) ubiquitous** automation is what's being promised here. Sure it can summarize your calendar, but it can do much more if you want it to. Literally everything possible for you to do with a computer today. No really, that's really what these things ~~could~~ **can** do.
 
 ## Easy automation
 
