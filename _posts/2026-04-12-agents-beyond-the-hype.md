@@ -8,6 +8,19 @@ Generative AI (doesn't that term feel like such an antiquated relic these days?)
 
 "As big as the internet was", of course, comes with the same level of risks, and the biggest of them all is: being misunderstood as a silver bullet for humanity's problems. Beneath the torrential flood of "magic-like" hype declarations lies a quieter undercurrent of failures. While the demos are polished, the reality checks are starting to surface. Many in the industry aren't ready to look at them yet, since there is still hype left to milk.
 
+### Table of Contents
+- [The Three Tiers of Agency](#the-three-tiers-of-agency)
+- [You Are an AI Pessimist, Whether You Are One or Not](#you-are-an-ai-pessimist-whether-you-are-one-or-not)
+- [The False Promise](#the-false-promise)
+  - [Easy Automation](#easy-automation)
+  - [Ubiquitous Automation](#ubiquitous-automation)
+  - [Who Is Making This Promise?](#who-is-making-this-promise)
+  - [The Token Tax](#the-token-tax)
+- [Architecting Autonomy](#architecting-autonomy)
+- [Final Thoughts](#final-thoughts)
+
+---
+
 First let's agree on what we're talking about here: when a tech CEO is talking about agents today, they're most likely talking about a fully autonomous agent that needs nothing but an instruction and some integrations to get you a "done job". The job, critically, is often a very ambitiously and vaguely defined task like: "develop and execute a communication strategy", the underlying dream scenario being "spending on tokens instead of on people".
 
 When a software engineer is talking about a coding agent, they're most likely referring to Claude Code, OpenAI Codex or Google Gemini CLI - and in some cases an "AI software engineer" (if such a thing is even plausible) like [Devin](https://devin.ai/). That is very different from the above.
@@ -33,7 +46,7 @@ Why is it then that whenever we get a demo of an agentic framework someone inevi
 
 ![](/assets/img/AgentsBeyondTheHype/banner.png)
 
-# You are an AI pessimist, whether you are one or not
+# You Are an AI Pessimist, Whether You Are One or Not
 
 The current Agentic AI hype is so aggressive that anyone questioning any part of it is labeled an AI pessimist. It always strikes me as a paradox: the people who use this technology daily and reap the most benefits from it are often the ones who see the flaws more clearly, and will therefore put them front and center because by this point, those people are **expecting it** to be great and to provide what everyone else is stuck praising and dreaming about, and doubting that others are not maximizing its ROI.
 
@@ -61,11 +74,11 @@ The truth is that those who still pitch this technology as a magical, cost-free 
 
 This train of thought is not original either, because this whole thing is happening for the 10th time at least, in tech history.
 
-# The false promise
+# The False Promise
 
 In a nutshell, **1) easy**, and **2) ubiquitous** automation is what's being promised here. Sure it can summarize your calendar, but it can do much more if you want it to. Literally everything possible for you to do with a computer today. No really, that's really what these things ~~could~~ **can** do.
 
-## Easy automation
+## Easy Automation
 
 >"As an agentic AI user, I would like my agent to do my chores, and make me a billion dollar SaaS, so that I can go for a walk and be happy".
 >
@@ -93,7 +106,7 @@ The best we can do is to simulate it via "my agent instantiating sub-agents" whi
 
 It is good, and useful - but it's not yet an agent that makes agents in the deeply intuitive sense of the term.
 
-## Ubiquitous automation
+## Ubiquitous Automation
 
 Connect your calendar, connect your Hubspot, your Salesforce, your SAP, your bank API, your robot vacuum cleaner app, your coding assistant, everything you can connect (and the list is rapidly growing) and you will have ubiquitous agency.
 
@@ -109,7 +122,7 @@ Ok I will restrict it from certain types of operations. But then it won't be abl
 
 that is also not omnipotent. Nope, don't take my money.
 
-## Who is making this promise?
+## Who Is Making This Promise?
 
 Interestingly, it is a mix of:
 - people with a vested interest in making it sound too easy to drive adoption of **their "coding agent"** (I would call it a CLI coding assistant but that's not as fun). This includes the highly publicized stories of [30 PRs a day](https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny) that yield [just top notch code](https://www.linkedin.com/posts/witbrock_a-colleague-just-pointed-to-the-presence-activity-7448829664585957376-AUuC/) if you follow [these easy steps](https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships). It is a metric that sounds impressive to a CFO but terrifying to anyone who has to maintain the resulting technical debt. High-volume output is not a proxy for high-quality engineering, yet it is being sold as the new standard for the AI-enabled developer.
@@ -120,7 +133,7 @@ This does not necessarily disqualify any of these actors, a healthy attitude wou
 
 The promise is valid in the long term - to some extent, until the [LLM plateau theory](https://arxiv.org/abs/2511.12869) is proven wrong. What is certainly wrong is the short term promises of **easy** and **ubiquitous** automation.
 
-## The token tax
+## The Token Tax
 
 You will notice I deliberately ignore the token tax argument here because I firmly believe that it is a temporary issue, and that with the massive investments in hardware and software being made into generative AI, tokens have been getting cheaper and will keep getting cheaper over time until they are a non-issue.
 
@@ -138,7 +151,7 @@ Still, if you're a budget-sensitive organization that can not sponsor tokens wit
 - No incentives to overspend and waste (like the ridiculous new "[tokenmaxxing](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/)" trend and metrics set by management for engineers)
 - Clear goals and a shared understanding of the expected ROI with the employees being provided these tools
 
-# Architecting autonomy
+# Architecting Autonomy
 
 By all measures, and beyond simply headlines and sales pitches, agents are here, and here to stay and become the new default.
 
@@ -174,7 +187,7 @@ If I had to summarize it, I would recommend three things:
     - Policy and Access Control: Do not grant your agents unfiltered access. What happens when an agent, tasked with "cleaning up Hubspot data," decides that deleting 5000 "stale" leads is the most efficient path because it lacked a policy guardrail? Without [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) or similar proxies, you aren't just deploying an assistant. You're deploying a root user with a hallucination problem. Learning to define these constraints is as critical as learning to prompt the agent. Solution providers like [Rubrik](https://www.rubrik.com/) are starting to address this with commercial tooling, but the responsibility remains in the hands of the architect.
     - Cost-Benefit Analysis: Recognize that not every task is worth automating. If a task takes 3 seconds and is stable, the overhead of building an agent pipeline may outweigh the time saved. Focus learning efforts on high-friction, high-complexity problems where human intuition is currently the bottleneck.
 
-# Final thoughts
+# Final Thoughts
 
 So why am I actually so worked up about all of this? Can't I just let people be happy and name things however they want and dream a little?
 
