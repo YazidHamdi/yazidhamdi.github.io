@@ -37,29 +37,27 @@ Why is it then that whenever we get a demo of an agentic framework someone inevi
 
 The current Agentic AI hype is so aggressive that anyone questioning any part of it is labeled an AI pessimist. It always strikes me as a paradox: the people who use this technology daily and reap the most benefits from it are often the ones who see the flaws more clearly, and will therefore put them front and center because by this point, those people are **expecting it** to be great and to provide what everyone else is stuck praising and dreaming about, and doubting that others are not maximizing its ROI.
 
-If you, like me, daily drive Claude Code and can't remember the last manual line of code you wrote except for "claude --resume", you will be more concerned about its failure to systematically apply the rules you set in your repo's .agents folder than about "how amazing it is". It's simple really, and this meme that everyone has seen by now summarizes it perfectly:
+If you, like me, daily drive Claude Code and can't remember the last manual line of code you wrote except for "claude \--resume", you will be more concerned about its failure to systematically apply the rules you set in your repo's .agents folder than about "how amazing it is". It's simple really, and this meme that everyone has seen by now summarizes it perfectly:
 
 ![](/assets/img/AgentsBeyondTheHype/power_user.jpeg)
 
 At first, it was unsettling to me seeing people misunderstand my recurrent critiques of this wave of AI tools as "AI skepticism" and "AI pessimism" and "yet another IT guy scared for his job".
 
-Until you really listen to what's being said.
-
 ![](/assets/img/AgentsBeyondTheHype/ohno.jpg)
 
-If anything, everyone else but IT guys should be scared for their jobs.
+Until you really listen to what's being said.
 
-IT people just gained the superpower of building much faster for much cheaper and no longer need millions to achieve what startups of yesteryear needed to raise every couple of years, but that's a different topic.
+In reality, the displacement will likely be felt most outside the technical sector. Engineers have gained a level of leverage that was previously unimaginable. We can now build and scale at a fraction of the cost, making the capital-intensive startups of the past look inefficient, although that is a deeper conversation for another day.
 
 Then when I thought about who is actually using this technology more and thus has a better insight into it from the two sides of this exchange, it restored my conviction that this is yet another symptom of the duty of toxic positivity tech "visionaries" impose on all of us.
 
-![](/assets/img/AgentsBeyondTheHype/board_room.jpg)
-
 If you're not on the bandwagon, you're falling behind and don't see the potential and thus can't capture the opportunity, or so it goes.
+
+![](/assets/img/AgentsBeyondTheHype/board_room.jpg)
 
 If you're not chanting praise to the agentic brave new world with the crowd, you're a bad engineer.
 
-My rebuttal: anyone who is still talking about this as if it were a magical silver bullet that will fix everything immediately and with no/low expense, you're the one who is behind.
+The truth is that those who still pitch this technology as a magical, cost-free panacea are the ones truly trailing the curve. By ignoring the complexities of implementation, they miss the actual structural shift occurring in the industry.
 
 This train of thought is not original either, because this whole thing is happening for the 10th time at least, in tech history.
 
@@ -153,16 +151,20 @@ Is it working? Are we getting easy ubiquitous automation? When it works, why? In
 Capturing this opportunity is possible, it's happening, and there is a right way to do it: explore, while keeping a cool head about it and hedging against the tumultuous nature of the business environment surrounding it at the moment. Adopting a new tool every couple of weeks is possible, but it's counterproductive. Spending time building automation workflows and pipelines for mundane tasks that take 3 seconds and don't change the productivity picture for an employee is not a good investment.
 
 If I had to summarize it, I would recommend three things:
-1) **stick to the fundamentals**
+1. **Stick to the fundamentals**
+
     - Ask why, then what and only then ask how (although you may already have AI Agents as an answer going in). But trust me, this never fails: questioning your goal and what you are trying to build to achieve that goal will always lead you to the right "why", the right tooling, process and eventually results.
     - More formally: never compromise on architectural analysis. Before building a system, it is key to understand why you are doing so and what you need it to do. You will also find that documenting your architecture design and ADRs in a clean coding-agent-readable way helps, although it will always need some prompt engineering to take that into account.
     - The smaller the problems, the more successful the implementation: by dropping the expectation of "easy" automation, you will start to be more explicit and specific in your asks from your AI agents, and that in turn will result in them delivering more successfully on your asks. You don't have to do it by hand by the way: your agent is more than capable of making a solid step by step plan, you just have to review it and ensure it's doing what you're asking it to do.
-2) **Experiment and Adopt**
+
+2. **Experiment and Adopt**
+
     - Start Small, Scale Slowly: Instead of chasing the latest "agentic" hype cycle, begin with low-stakes, sandboxed environments (like [Dify](https://dify.ai/) or [OpenClaw](https://openclaw.ai/) - I have tried both and would actually recommend Dify) to test specific workflows. Treat early adoption as a discovery phase, not a production rollout. This is not valid across the board, in some cases where repeated high-similarity actions are happening, adoption can move faster - as is the playbook of any type of digital automation of the past.
     - Iterative Integration: Focus on integrating agents into existing workflows where they can augment human decision-making rather than replacing it entirely. The goal is to find the "sweet spot" where automation adds genuine value without introducing fragility.
     - Tool Agnosticism: While the landscape moves fast, avoid the trap of constant tool-switching. Pick a stack that fits your current architectural needs and stick with it long enough to learn its nuances. True adoption comes from deep familiarity, not surface-level novelty.
 
-3) **Learn and Manage Risks and Limitations**
+3. **Learn and Manage Risks and Limitations**
+
     - Acknowledge the "Black Box": Understand that while agents are infinitely flexible, they are not omniscient. They suffer from hallucinations, context window limits, and reasoning gaps. Successful implementation requires building guardrails and human-in-the-loop verification steps, not blind trust.
     - Acknowledge the inherent security risk that comes with handing over your data, API connections and prompt-derived intelligence to a third party automation platform. Self-preferencing by these platforms and replication of your workflows/data/knowledge to be sold to others without your knowledge is a real risk supported by many past incidents. Be aware of what your service providers are doing with your data, so that you don't enable [shadow AI](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/) risks. Many SaaS companies have enabled AI agents or AI training on their customer data with sometimes suspiciously quiet releases/updates, which can be very risky and result in data extraction by AI agents or LLM leaks in the future.
     - Policy and Access Control: Do not grant your agents unfiltered access. What happens when an agent, tasked with "cleaning up Hubspot data," decides that deleting 5,000 "stale" leads is the most efficient path because it lacked a policy guardrail? Without [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) or similar proxies, you aren't just deploying an assistant. You're deploying a root user with a hallucination problem. Learning to define these constraints is as critical as learning to prompt the agent. Solution providers like [Rubrik](https://www.rubrik.com/) are starting to address this with commercial tooling, but the responsibility remains in the hands of the architect.
