@@ -2,7 +2,7 @@
 layout: post
 title: 'Agents Beyond the Hype: Escaping Perceptions, Architecting Autonomy'
 tags: [software_engineering]
-cover-img: "/assets/img/SE_header.png"
+cover-img: "/assets/img/AgentsBeyondTheHype/banner.png"
 ---
 Generative AI (doesn't that term feel like such an antiquated relic these days?) and LLM-powered agents feel as big a technological leap as the internet was for humanity, and for good reasons. Finally, the dream of artificial intelligence is materializing. You no longer need to train your own model to solve your specific problem. For the past four years, we have had general-purpose AI which is multi-modal, capable of reasoning and using tools.
 
@@ -30,6 +30,8 @@ So do "interactive" or "semi-automated" agents qualify for what most would call 
 That will be my definition for "agent" going forward in this post.
 
 Why is it then that whenever we get a demo of an agentic framework someone inevitably shows us an LLM "summarizing their agenda for the day" (I must have seen this one a dozen times from different providers each valued at hundreds of millions - but it's not a bubble, relax everyone)? Isn't it a bit telling that the pitch comes down to "We've replaced 15 seconds of cognitive effort with 45 seconds of LLM latency and a $0.12 API bill"? Why does this feel so much like [the Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?
+
+![](/assets/img/AgentsBeyondTheHype/banner.png)
 
 # You are an AI pessimist, whether you are one or not
 
