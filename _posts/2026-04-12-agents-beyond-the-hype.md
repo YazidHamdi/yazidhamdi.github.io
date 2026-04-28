@@ -4,9 +4,9 @@ title: 'Agents Beyond the Hype: Escaping Perceptions, Architecting Autonomy'
 tags: [software_engineering]
 cover-img: "/assets/img/SE_header.png"
 ---
-Generative AI (doesn't that term feel like such an antiquated relic these days?) and LLM-powered agents feel as big a technological leap as the internet was for humanity, and for good reasons. Finally, the dream of artificial intelligence is materializing. You no longer need to train your own model to solve your specific problem; for the past four years, we have had general-purpose AI which is multi-modal, capable of reasoning and using tools.
+Generative AI (doesn't that term feel like such an antiquated relic these days?) and LLM-powered agents feel as big a technological leap as the internet was for humanity, and for good reasons. Finally, the dream of artificial intelligence is materializing. You no longer need to train your own model to solve your specific problem. For the past four years, we have had general-purpose AI which is multi-modal, capable of reasoning and using tools.
 
-"As big as the internet was", of course, comes with the same level of risks, and the biggest of them all is: being misunderstood for a silver bullet for a business's (and more generally humanity's) problems. Rumbling under the torrential flood of agentic fully-autonomous magic-like hype declarations, demos and releases is an undercurrent of failures, wake up calls and reality checks that most are not really ready/willing to look at yet, since we haven't milked this hype enough yet.
+"As big as the internet was", of course, comes with the same level of risks, and the biggest of them all is: being misunderstood as a silver bullet for humanity's problems. Beneath the torrential flood of "magic-like" hype declarations lies a quieter undercurrent of failures. While the demos are polished, the reality checks are starting to surface. Many in the industry aren't ready to look at them yet, since there is still hype left to milk.
 
 First let's agree on what we're talking about here: when a tech CEO is talking about agents today, they're most likely talking about a fully autonomous agent that needs nothing but an instruction and some integrations to get you a "done job". The job, critically, is often a very ambitiously and vaguely defined task like: "develop and execute a communication strategy", the underlying dream scenario being "spending on tokens instead of on people".
 
@@ -16,10 +16,14 @@ Regular people? They think ChatGPT is an agent.
 
 ![](/assets/img/AgentsBeyondTheHype/plebs.jpg)
 
-The above three definitions and how different they are is the very reason I would like to agree on a definition before we go any deeper. You will see the definition of an agent require:
-- At level 1: tool use (calling APIs, essentially)
-- At level 2: chain-of-thought (aka sequential planning and execution)
-- At level 3: autonomous agency (asynchronous execution, self-correction, state persistence aka "memory")
+### The Three Tiers of Agency
+
+To discuss this effectively, we must move past marketing fluff. True agency is a spectrum, and I define it across three levels:
+- **Level 1: Tool Use.** The ability to call external APIs or execute local functions. Essentially, a chatbot with a backpack.
+- **Level 2: Chain-of-Thought.** Sequential planning where the AI breaks a task into steps and executes them one by one.
+- **Level 3: Autonomous Agency.** The "Uncanny Valley" of frameworks. This requires asynchronous execution, self-correction, and state persistence (memory). 
+
+Level 3 is where the current hype lives, but it's also where most frameworks fail. It's the difference between an assistant that helps you write a function and an agent that "lives and breathes" inside your infrastructure, figuring things out and doing them itself.
 
 So do "interactive" or "semi-automated" agents qualify for what most would call "agent" (as opposed to a classic chatbot or a coding assistant)? I don't think so, I have seen the definition shift with time and right now most people I talk to define it as this idea of an enabled AI that "is living and breathing" and "figures it out and does it itself" - implying the idea of autonomy and memory as the end goal.
 
@@ -108,7 +112,7 @@ that is also not omnipotent. Nope, don't take my money.
 ## Who is making this promise?
 
 Interestingly, it is a mix of:
-- people with obvious conflicts of interest, or rather: a vested interest in making it sound too easy to drive adoption of **their "coding agent"** (I would call it a CLI coding assistant but that's not as fun) - certainly not [Boris Cherny and his 30 PRs a day](https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny) that yield [just top notch code](https://www.linkedin.com/posts/witbrock_a-colleague-just-pointed-to-the-presence-activity-7448829664585957376-AUuC/) and will do the same for you whatever your process, product or project is if you follow [these easy steps](https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships).
+- people with a vested interest in making it sound too easy to drive adoption of **their "coding agent"** (I would call it a CLI coding assistant but that's not as fun). This includes the highly publicized stories of [30 PRs a day](https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny) that yield [just top notch code](https://www.linkedin.com/posts/witbrock_a-colleague-just-pointed-to-the-presence-activity-7448829664585957376-AUuC/) if you follow [these easy steps](https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships). It is a metric that sounds impressive to a CFO but terrifying to anyone who has to maintain the resulting technical debt. High-volume output is not a proxy for high-quality engineering, yet it is being sold as the new standard for the AI-enabled developer.
 - managers, execs and visionaries who want to repeat it enough that it becomes a reality to which everyone has to catch up, also with a vested interest since it's setting unrealistic expectations of their engineers who actually have to use the tools and build things with them.
 - optimistic people who genuinely believe in the potential of these tools but lack the immersion necessary to understand what implementation of large-scale automation implies in terms of effort and investment.
 
@@ -159,10 +163,10 @@ If I had to summarize it, I would recommend three things:
 3) **Learn and Manage Risks and Limitations**
     - Acknowledge the "Black Box": Understand that while agents are infinitely flexible, they are not omniscient. They suffer from hallucinations, context window limits, and reasoning gaps. Successful implementation requires building guardrails and human-in-the-loop verification steps, not blind trust.
     - Acknowledge the inherent security risk that comes with handing over your data, API connections and prompt-derived intelligence to a third party automation platform. Self-preferencing by these platforms and replication of your workflows/data/knowledge to be sold to others without your knowledge is a real risk supported by many past incidents. Be aware of what your service providers are doing with your data, so that you don't enable [shadow AI](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/) risks. Many SaaS companies have enabled AI agents or AI training on their customer data with sometimes suspiciously quiet releases/updates, which can be very risky and result in data extraction by AI agents or LLM leaks in the future.
-    - Policy and Access Control: Do not grant your agents access not governed by policy proxies. This is currently one of the more undercovered topics in agentic AI, but there are solution providers such as [Rubrik](https://www.rubrik.com/) that already provide commercial tooling for this purpose, as well as open source projects like [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) which allows for robust policy management. Agents must operate within strict boundaries regarding data access and system permissions. Learning to define these constraints is as critical as learning to prompt the agent.
+    - Policy and Access Control: Do not grant your agents unfiltered access. What happens when an agent, tasked with "cleaning up Hubspot data," decides that deleting 5,000 "stale" leads is the most efficient path because it lacked a policy guardrail? Without [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) or similar proxies, you aren't just deploying an assistant. You're deploying a root user with a hallucination problem. Learning to define these constraints is as critical as learning to prompt the agent. Solution providers like [Rubrik](https://www.rubrik.com/) are starting to address this with commercial tooling, but the responsibility remains in the hands of the architect.
     - Cost-Benefit Analysis: Recognize that not every task is worth automating. If a task takes 3 seconds and is stable, the overhead of building an agent pipeline may outweigh the time saved. Focus learning efforts on high-friction, high-complexity problems where human intuition is currently the bottleneck.
 
-# Final words
+# Final thoughts
 
 So why am I actually so worked up about this all? Can't I just let people be happy and name things however they want and dream a little?
 
