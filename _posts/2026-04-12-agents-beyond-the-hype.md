@@ -8,13 +8,13 @@ Generative AI (doesn't that term feel like such an antiquated relic these days?)
 
 "As big as the internet was", of course, comes with the same level of risks, and the biggest of them all is: being misunderstood for a silver bullet for a business's (and more generally humanity's) problems. Rumbling under the torrential flood of agentic fully-autonomous magic-like hype declarations, demos and releases is an undercurrent of failures, wake up calls and reality checks that most are not really ready/willing to look at yet, since we haven't milked this hype enough yet.
 
-
-
 First let's agree on what we're talking about here: when a tech CEO is talking about agents today, they're most likely talking about a fully autonomous agent that needs nothing but an instruction and some integrations to get you a "done job". The job, critically, is often a very ambitiously and vaguely defined task like: "develop and execute a communication strategy", the underlying dream scenario being "spending on tokens instead of on people".
 
 When a software engineer is talking about a coding agent, they're most likely referring to Claude Code, OpenAI Codex or Google Gemini CLI - and in some cases an "AI software engineer" (if such a thing is even plausible) like [Devin](https://devin.ai/). That is very different from the above.
 
-Regular people? They think ChatGPT is an agent. Hah. Plebs. Smh.
+Regular people? They think ChatGPT is an agent.
+
+![](/assets/img/AgentsBeyondTheHype/plebs.jpg)
 
 The above three definitions and how different they are is the very reason I would like to agree on a definition before we go any deeper. You will see the definition of an agent require:
 - At level 1: tool use (calling APIs, essentially)
@@ -27,7 +27,7 @@ That will be my definition for "agent" going forward in this post.
 
 Why is it then that whenever we get a demo of an agentic framework someone inevitably shows us an LLM "summarizing their agenda for the day" (I must have seen this one a dozen times from different providers each valued at hundreds of millions - but it's not a bubble, relax everyone)? Isn't it a bit telling that the pitch comes down to "We've replaced 15 seconds of cognitive effort with 45 seconds of LLM latency and a $0.12 API bill"? Why does this feel so much like [the Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?
 
-# AI pessimist, whether you are one or not
+# You are an AI pessimist, whether you are one or not
 
 The current Agentic AI hype is so aggressive that anyone questioning any part of it is labeled an AI pessimist. It always strikes me as a paradox: the people who use this technology daily and reap the most benefits from it are often the ones who see the flaws more clearly, and will therefore put them front and center because by this point, those people are **expecting it** to be great and to provide what everyone else is stuck praising and dreaming about, and doubting that others are not maximizing its ROI.
 
@@ -65,14 +65,17 @@ In a nutshell, **1)easy**, and **2)ubiquitous** automation is what's being promi
 
 >"As an agentic AI user, I would like my agent to do my chores, and make me a billion dollar SaaS, so that I can go for a walk and be happy".
 >
->Implement this one, *\<insert agent name here>*.
+>Implement this one, `<insert agent name here>`.
 
 This is the weight of the expectations here: It is in principle possible, but I have and everyone here has been provided access to the Zapiers and the Microsoft Power Automate and we found it such a chore to literally go and figure out the formalism and draw a workflow then input variables and link systems and services, who wants to do **that**? Can't I just tell it what to do?
 
 Well - you can now, it can understand what you want (or a version of it), and if you connect it enough, your agent can also do it for you. But how much "telling it what you want" are you ready to do?
-<the more you tell it what you want the more annoyed you are but the more informed it is>
+
+<mark>the more you tell it what you want the more annoyed you are but the more informed it is</mark>
+
 How reliably will it understand what you want?
-<the more you give it instructions the more confused it may get>
+
+<mark>the more you give it instructions the more confused it will get</mark>
 
 So for now we're stuck with glorified workflow management software with an "LLM" step as a nice new addition (instead of say coding a custom processing step), so basically classic BPM/workflow management and automation with "easy to make" NLP steps baked in.
 
