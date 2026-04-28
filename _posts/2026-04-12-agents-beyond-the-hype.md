@@ -151,11 +151,14 @@ Is it working? Are we getting easy ubiquitous automation? When it works, why? In
 Capturing this opportunity is possible, it's happening, and there is a right way to do it: explore, while keeping a cool head about it and hedging against the tumultuous nature of the business environment surrounding it at the moment. Adopting a new tool every couple of weeks is possible, but it's counterproductive. Spending time building automation workflows and pipelines for mundane tasks that take 3 seconds and don't change the productivity picture for an employee is not a good investment.
 
 If I had to summarize it, I would recommend three things:
+
+
 1. **Stick to the fundamentals**
 
-    - Ask why, then what and only then ask how (although you may already have AI Agents as an answer going in). But trust me, this never fails: questioning your goal and what you are trying to build to achieve that goal will always lead you to the right "why", the right tooling, process and eventually results.
+    - Ask why, then what and only then ask how (although you may already have AI Agents as an answer going in). But trust me, this never fails: questioning your goal and what you are trying to build to achieve that goal will always lead you to the right "how", the right tooling, process and eventually results.
     - More formally: never compromise on architectural analysis. Before building a system, it is key to understand why you are doing so and what you need it to do. You will also find that documenting your architecture design and ADRs in a clean coding-agent-readable way helps, although it will always need some prompt engineering to take that into account.
     - The smaller the problems, the more successful the implementation: by dropping the expectation of "easy" automation, you will start to be more explicit and specific in your asks from your AI agents, and that in turn will result in them delivering more successfully on your asks. You don't have to do it by hand by the way: your agent is more than capable of making a solid step by step plan, you just have to review it and ensure it's doing what you're asking it to do.
+
 
 2. **Experiment and Adopt**
 
@@ -163,11 +166,12 @@ If I had to summarize it, I would recommend three things:
     - Iterative Integration: Focus on integrating agents into existing workflows where they can augment human decision-making rather than replacing it entirely. The goal is to find the "sweet spot" where automation adds genuine value without introducing fragility.
     - Tool Agnosticism: While the landscape moves fast, avoid the trap of constant tool-switching. Pick a stack that fits your current architectural needs and stick with it long enough to learn its nuances. True adoption comes from deep familiarity, not surface-level novelty.
 
+
 3. **Learn and Manage Risks and Limitations**
 
     - Acknowledge the "Black Box": Understand that while agents are infinitely flexible, they are not omniscient. They suffer from hallucinations, context window limits, and reasoning gaps. Successful implementation requires building guardrails and human-in-the-loop verification steps, not blind trust.
     - Acknowledge the inherent security risk that comes with handing over your data, API connections and prompt-derived intelligence to a third party automation platform. Self-preferencing by these platforms and replication of your workflows/data/knowledge to be sold to others without your knowledge is a real risk supported by many past incidents. Be aware of what your service providers are doing with your data, so that you don't enable [shadow AI](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/) risks. Many SaaS companies have enabled AI agents or AI training on their customer data with sometimes suspiciously quiet releases/updates, which can be very risky and result in data extraction by AI agents or LLM leaks in the future.
-    - Policy and Access Control: Do not grant your agents unfiltered access. What happens when an agent, tasked with "cleaning up Hubspot data," decides that deleting 5,000 "stale" leads is the most efficient path because it lacked a policy guardrail? Without [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) or similar proxies, you aren't just deploying an assistant. You're deploying a root user with a hallucination problem. Learning to define these constraints is as critical as learning to prompt the agent. Solution providers like [Rubrik](https://www.rubrik.com/) are starting to address this with commercial tooling, but the responsibility remains in the hands of the architect.
+    - Policy and Access Control: Do not grant your agents unfiltered access. What happens when an agent, tasked with "cleaning up Hubspot data," decides that deleting 5000 "stale" leads is the most efficient path because it lacked a policy guardrail? Without [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) or similar proxies, you aren't just deploying an assistant. You're deploying a root user with a hallucination problem. Learning to define these constraints is as critical as learning to prompt the agent. Solution providers like [Rubrik](https://www.rubrik.com/) are starting to address this with commercial tooling, but the responsibility remains in the hands of the architect.
     - Cost-Benefit Analysis: Recognize that not every task is worth automating. If a task takes 3 seconds and is stable, the overhead of building an agent pipeline may outweigh the time saved. Focus learning efforts on high-friction, high-complexity problems where human intuition is currently the bottleneck.
 
 # Final thoughts
