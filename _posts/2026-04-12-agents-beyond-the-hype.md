@@ -1,16 +1,22 @@
 ---
 layout: post
-title: 'Agents Beyond the Hype: Architecting Autonomy'
+title: 'Agents Beyond the Hype: Escaping Perceptions, Architecting Autonomy'
 tags: [software_engineering]
 cover-img: "/assets/img/SE_header.png"
 ---
-Generative AI (doesn't that term feel like such an antiquated one now?) and LLM-powered agents feel as big a technological leap as the internet was for humanity, and for good reasons. Finally, the dream of artificial intelligence is materializing. You no longer need to train your own model to solve your specific problem, we now have for the past 4 years general-purpose AI which is multi-modal, capable of reasoning and using tools.
+Generative AI (doesn't that term feel like such an antiquated relic these days?) and LLM-powered agents feel as big a technological leap as the internet was for humanity, and for good reasons. Finally, the dream of artificial intelligence is materializing. You no longer need to train your own model to solve your specific problem, we now have for the past 4 years general-purpose AI which is multi-modal, capable of reasoning and using tools.
 
 "As big as the internet was", of course, comes with the same level of risks, and the biggest of them all is: being misunderstood for a silver bullet for a business's (and more generally huamnity's) problems. Rumbling under the torrential flood of agentic fully-autonomous magic-like hype declarations, demos and releases is a an undercurrent of failures, wake up calls and reality checks that most are not really ready/willing to look at yet, since we haven't milked this hype enough yet.
 
-First let's agree on what we're talking about here: when a tech CEO is talking about agents today, they're most likely talking about a fully autonomous agent that needs nothing but an instruction and some integrations to get you a "done job". When a software engineer is talking about a coding agent, they're most likely referring to Claude Code, OpenAI Codex or Google Gemini CLI. Regular people? They think ChatGPT is an agent. Hah.
 
-You will see the definition of an agent require:
+
+First let's agree on what we're talking about here: when a tech CEO is talking about agents today, they're most likely talking about a fully autonomous agent that needs nothing but an instruction and some integrations to get you a "done job". The job, critically, is often a very ambitiously and vaguely defined task like: "develop and execute a communication strategy", the underlying dream scenario being "spending on tokens instead of on people".
+
+When a software engineer is talking about a coding agent, they're most likely referring to Claude Code, OpenAI Codex or Google Gemini CLI - and in some cases an "AI software engineer" (if such a thing is even plausible) like [Devin](https://devin.ai/). That is very different from the above.
+
+Regular people? They think ChatGPT is an agent. Hah. Plebs. Smh.
+
+The above three definitions and how different they are is the very reason I would like to agree on a definition before we go any deeper. You will see the definition of an agent require:
 - At level 1: tool use (calling APIs, essentially)
 - At level 2: chain-of-thought (aka sequential planning and execution)
 - At level 3: autonomous agency (asynchronous execution, self-correction, state persistence aka "memory")
@@ -19,16 +25,49 @@ So do "interactive" or "semi-automated" agents qualify for what most would call 
 
 That will be my definition for "agent" going forward in this post.
 
-Why is it then that whenever we get a demo of an agentic framework someone inevitably shows us an LLM "summarizing their agenda for the day" (I swear I must have seen this one a dozen times from different providers)? Isn't it a bit telling that the pitch comes down to "We've replaced 15 seconds of cognitive effort with 45 seconds of LLM latency and a $0.12 API bill"? Why does this feel so much like [the Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?
+Why is it then that whenever we get a demo of an agentic framework someone inevitably shows us an LLM "summarizing their agenda for the day" (I must have seen this one a dozen times from different providers each valued at hundreds of millions - but it's not a bubble, relax everyone)? Isn't it a bit telling that the pitch comes down to "We've replaced 15 seconds of cognitive effort with 45 seconds of LLM latency and a $0.12 API bill"? Why does this feel so much like [the Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)?
+
+# AI pessimist, whether wou are one or not
+
+The current Agentic AI hype is so aggressive that anyone questioning any part of it is labeled an AI pessimist. It always strikes me as a paradox: the people who use this technology daily and reap the most benefits from it are often the ones who see the flaws more clearly, and will therefore put them front and center because by this point, those people are **expecting it** to be great and to provide what everyone else is stuck praising and dreaming about, and doubting that others are not maximizing its ROI.
+
+If you daily drive Claude Code, like me, who can't remember the last manual line of code I wrote except for "claude --resume", you will be more concerned about its failure to systematically apply the rules you set in your repo's .agents folder than about "how amazing it is". It's simple really, and this meme that everyone has seen by now summarizes it perfectly:
+
+![](/assets/img/AgentsBeyondTheHype/power_user.jpeg)
+
+At first, it was unsettling to me seeing people misunderstand my recurrent critiques of this wave of AI tools as "AI skepticism" and "AI pessimism" and "yet another IT guy scared for his job".
+
+Until you listen really to what's being said.
+
+![](/assets/img/AgentsBeyondTheHype/ohno.jpg)
+
+If anything, everyone else but IT guys should be scared for their jobs.
+
+IT people just gained the superpower of building much faster for much cheaper and no longer need millions to achieve what startups of yesteryear needed to raise every couple of years, but that's a different topic.
+
+Then when I thought about who is actually using this technology more and thus has a better insight into it from the two sides of this exchange, it restored my conviction that this is yet another symptom of the duty of toxic positivity tech "visionaries" impose on all of us.
+
+![](/assets/img/AgentsBeyondTheHype/board_room.jpg)
+
+If you're not on the bandwagon, you're falling behind and don't see the potential and thus can't capture the opportunity, or so it goes.
+
+If you're not chanting praise to the agentic brave new world with the crowd, you're a bad engineer.
+
+My rebuttal: anyone who is still talking about this as if it were a magical silver bullet that will fix everything immediately and with no/low expense, you're the one who is behind.
+
+This train of thought is not original either, because this whole thing is happening for the 10th time at least, in tech history.
 
 # The false promise
 
-In a nutshell, *1)easy 2)unbiquitous automation* is what's being promised here. Sure it can summarize your calendar, but it can do much more if you want it to. Literally everything possible for you to do with a computer today. No really, that's really what these things ~~could~~ *can* do.
+In a nutshell, **1)easy**, and **2)unbiquitous** automation is what's being promised here. Sure it can summarize your calendar, but it can do much more if you want it to. Literally everything possible for you to do with a computer today. No really, that's really what these things ~~could~~ **can** do.
 
-## Easy Automation
+## Easy automation
 
-"As an agent user, I would like my agent to do my chores, so that I can go for a walk and be happy". Implement this one, Claude.
-This is the weight of the expectations here: It is in principle possible, but I have and everyone here has been provided access to the Zapiers and the Microsoft Power Automate and we found it such a chore to literally go and figure out the formalism and draw a workflow then input variables and link systems and services, who wants to do *that*? Can't I just tell it what to do?
+>"As an agentic AI user, I would like my agent to do my chores, and make me a billion dollar SAAS, so that I can go for a walk and be happy".
+>
+>Implement this one, *\<insert agent name here>*.
+
+This is the weight of the expectations here: It is in principle possible, but I have and everyone here has been provided access to the Zapiers and the Microsoft Power Automate and we found it such a chore to literally go and figure out the formalism and draw a workflow then input variables and link systems and services, who wants to do **that**? Can't I just tell it what to do?
 
 Well - you can now, it can understand what you want (or a version of it), and if you connect it enough, your agent can also do it for you. But how much "telling it what you want" are you ready to do?
 <the more you tell it what you want the more annoyed you are but the more informed it is>
@@ -37,25 +76,95 @@ How reliably will it understand what you want?
 
 So for now we're stuck with glorified workflow management software with an "LLM" step as a nice new addition (instead of say coding a custom processing step), so basically classic BPM/workflow management and automation with "easy to make" NLP steps baked in.
 
-We don't have "an agent that makes agents" yet. Sure we do have it, you must have heard of "subagents", but these are not it.
+People forget, but the last time we did this, you needed the subscription to the SAAS, the guy who sits down and slowly and painfully maps out your processes, then creates the flowcharts, then debugs the process execution, then maybe a couple of months later delivers a limited set of pre-determined workflows that work, but are not robust to changes or breaking integrations, thus tying you up in a maintenance contract and a long-term **✨yet another tool to maintain that's also too painful to drop after all the time and effort we invested into it✨** ™️.
 
-## Ubiquitous Automation
+We don't yet have "an agent that makes agents" yet. We will have it at some point, but we don't have it yet.
 
-Connect your calendar, connect your Hubspot, your Salesforce, your SAP, your bank API, your robot vacuum cleaner app, your coding assistant, everything you can connect (and the list is rapidly growing) and you will have ubiquitous agency. It makes all the sense in the world, and yet it doesn't: you mean hand over all my keys to an agent run by some business somewhere and just trust them with my life? No I'll host my own. Oh wait, what do you mean it can accidentally delete everything and has done it in multiple highly publicized instances? Ok I will restrict it from certain types of operations. But then it won't be able to do things for me.
+The best we can do is to simulate it via "my agent instantiating sub-agents" which is (to anyone who knows) your AI assistant prompting itself concurrently to execute different parts of the task under different contexts/prompts/"personas".
 
-# The reality
+![](/assets/img/AgentsBeyondTheHype/subagents.jpg)
+
+It is good, and useful - but it's not yet an agent that makes agents in the deeply intuitive sense of the term.
+
+## Ubiquitous automation
+
+Connect your calendar, connect your Hubspot, your Salesforce, your SAP, your bank API, your robot vacuum cleaner app, your coding assistant, everything you can connect (and the list is rapidly growing) and you will have ubiquitous agency.
+
+It makes all the sense in the world, and yet it doesn't: you mean hand over all my keys to an agent run by some business somewhere and just trust them with my life?
+
+No I'll host my own.
+
+Oh wait, what do you mean it can accidentally delete everything and has done it in [multiple highly-publicized instances](https://medium.com/@coders.stop/7-ai-agents-that-went-rogue-in-2025-and-the-lessons-nobody-learned-from-them-cde66492e7e8)?
+
+Ok I will restrict it from certain types of operations. But then it won't be able to do **ubiquitous automation** for me - it won't be **fully automatic** (i.e. agentic, as defined in the beginning), it will be a:
+
+![](/assets/img/AgentsBeyondTheHype/semi_automatic.jpg)
+
+that is also not omnipotent. Nope, don't take my money.
+
+## Who is making this promise?
+
+Interistingly, it is a mix of:
+- people with obvious conficts of interest, or rather: a vested interest in making it sound too easy to drive adoption of **their "coding agent"** (I would call it a CLI coding assistant but that's not as fun) - certainly not [Boris Cherny and his 30 PRs a day](https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny) that yield [just top notch code](https://www.linkedin.com/posts/witbrock_a-colleague-just-pointed-to-the-presence-activity-7448829664585957376-AUuC/) and will do the same for you whatever your process, product or project is if you follow [these easy steps](https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships).
+- managers, execs and visionaries who want to repeat it enough that it becomes a reality to which everyone has to catch up, also with a vested interest since it's setting unrealistic expectations of their engineers who actually have to use the tools and build things with them.
+- optimistic people who genuinely believe in the potential of these tools but lack the immersion necessary to understand what implementation of large-scale automation implies in terms of effort and investment.
+
+This does not necessarily disqualify any of these actors, a healthy attitude would be to listen, analyze and understand where each is coming from, what their goals are and where the disconnect is happening - because only then can we begin to figure out how to handle these expectations and this fallacious promise.
+
+The promise is valid in the long term - to some extent, until the [LLM plateau theory](https://arxiv.org/abs/2511.12869) is proven wrong. What is certainly wrong is the short term promises of **easy** and **ubiquitous** automation.
+
+## The token tax
+
+You will notice I deliberately ignore the token tax argument here because I firmly believe that it is a temporary issue, and that with the massive investments in hardware and software being made into generative AI, tokens have been getting cheaper and will keep getting cheaper over time until they are a non-issue.
+
+LLM inference prices have been steadily dropping across the board:
+
+![](/assets/img/AgentsBeyondTheHype/llm-inference-price-trends.png)
+
+
+Price per token has also been steadily dropping ([source](https://impaxam.com/insights-and-news/blog/chip-designers-hold-the-key-to-cheaper-ai/)):
+
+![](/assets/img/AgentsBeyondTheHype/price_per_token.png)
+
+Still, if you're a budget-sensitive organization that can not sponsor tokens without limits (which is the case for most organizations aiming to benefit from agentic AI) you must carefully plan the investment and budgets and most of all ensure there are:
+- Caps on token spend, so you don't dangerously overspend
+- No incentives to overspend and waste (like the ridiculous new "[tokenmaxxing](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/)" trend and metrics set by management for engineers)
+- Clear goals and a shared understanding of the expected ROI with the employees being provided these tools
+
+# Architecting autonomy
 
 By all measures, and beyond simply headlines and sales pitches, agents are here, and here to stay and become the new default.
 
-Is it working? Are we getting easy ubiquitous automation? When it works, why? In which cases? When does it not work? - Same as digitalization, botched planning and rushed execution.
-The token tax and why it's ok: it'll eventually get cheaper.
+Zooming out, for the first time in our history, we have invented a new type of **program** that has an **infinitely flexible interface** and **can execute any request** we make **without pre-programming**.
 
-3) The comfortable yet risky "connect everything you have": when did it ever become ok to hand over your whole digital life and levers to a business you don't run and nobody is asking what it's doing with them?
+That in itself is the stuff of miracles.
 
-4) Is there a path forward? Yes: adapting our architectural thinking and retooling our stacks.
-a) agentic authN/authZ tools: gateways protecting critical resources and actions with "ask a human"
-b) alignment: still not there, but reasonably possible via adversarial prompting/validation steps of LLM on LLM
-c) get back to architectural basics: ask the what before the how, something too many people seem to be forgetting.
-d) roadmap for learning and getting to building: a suggested path (daily drive coding assistants, start creating some jobs on a sandboxed environment like Dify or OpenClaw etc., follow the tooling releases and grow into real proven usecases - still do not give un"policy proxied" access)
+Is it working? Are we getting easy ubiquitous automation? When it works, why? In which cases? When does it not work? The answers are all obvious for anyone who has seen the waves come and go - this is as transformative as the internet, but also suffers from the same paradigm shift issues as all the previous digitalization and automation waves: inflated expectations, botched planning and rushed execution.
 
-5) On a forward-looking angle: I don't think LLMs are "it". I think Yann LeCun's new initiative is "it". Looking into more fundamentally sound approaches instead of predicting the next character bigger and faster is what will take us to the next level. And of course quantum, but that's quite a distance away.
+Capturing this opportunity is possible, it's happening, and there is a right way to do it: explore, while keeping a cool head about it and hedging against the tumultuous nature of the business environment surrounding it at the moment. Adopting a new tool every couple of weeks is possible, but it's counterproductive. Spending time building automation workflows and pipelines for mundane tasks that take 3 seconds and don't change the productivity picture for an employee is not a good investment.
+
+If I had to summarize it, I would recommend three things:
+1) **stick to the fundamentals**
+    - Ask why, then what and only then ask how (although you may already have AI Agents as an answer going in). But trust me, this never fails: questioning your goal and what you are trying to build to achieve that goal will always lead you to the right "why", the right tooling, process and eventually results.
+    - More formally: never compromise on architectural analysis. Before building a system, it is key to understand why you are doing so and what you need it to do. You will also find that documenting your architecture design and ADRs in a clean coding-agent-readable way helps, although it will always need some prompt engineering to take that into account.
+    - The smaller the problems, the more successful the implementation: by dropping the expectation of "easy" automation, you will start to be more explicit and specific in your asks from your AI agents, and that in turn will result in them delivering more successfully on your asks. You don't have to do it by hand by the way: your agent is more than capable of making a solid step by step plan, you just have to review it and ensure it's doing what you're asking it to do.
+2) **Experiment and Adopt**
+    - Start Small, Scale Slowly: Instead of chasing the latest "agentic" hype cycle, begin with low-stakes, sandboxed environments (like [Dify](https://dify.ai/) or [OpenClaw](https://openclaw.ai/) - I have tried both and would actually recommend Dify) to test specific workflows. Treat early adoption as a discovery phase, not a production rollout. This is not valid across the board, in some cases where repeated high-similarity actions are happening, adoption can move faster - as is the playbook of any type of digital automation of the past.
+    - Iterative Integration: Focus on integrating agents into existing workflows where they can augment human decision-making rather than replacing it entirely. The goal is to find the "sweet spot" where automation adds genuine value without introducing fragility.
+    - Tool Agnosticism: While the landscape moves fast, avoid the trap of constant tool-switching. Pick a stack that fits your current architectural needs and stick with it long enough to learn its nuances. True adoption comes from deep familiarity, not surface-level novelty.
+
+3) **Learn and Manage Risks and Limitations**
+    - Acknowledge the "Black Box": Understand that while agents are infinitely flexible, they are not omniscient. They suffer from hallucinations, context window limits, and reasoning gaps. Successful implementation requires building guardrails and human-in-the-loop verification steps, not blind trust.
+    - Acknowledge the inherent security risk that comes with handing over your data, API connections and prompt-derived intelligence to a third party automation platform. Self-preferencing by these platforms and replication of your workflows/data/knowledge to be sold to others without your knowledge is a real risk supported by many past incidents. Be aware of what your service providers are doing with your data, so that you don't enable [shadow AI](https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/) risks. Many SAAS companies have enabled AI agents or AI training on their customer data with sometimes suspiciously quiet releases/updates, which can be very risky and result in data extraction by AI agents or LLM leaks in the future.
+    - Policy and Access Control: Do not grant your agents "unpolicy-proxied" access. This is currently one of the more undercovered topics in agentic AI, but there are solution providers such as [Rubrik](https://www.rubrik.com/) that already provide commercial tooling for this purpose, as well as open source projects like [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) which allows for robust policy management. Agents must operate within strict boundaries regarding data access and system permissions. Learning to define these constraints is as critical as learning to prompt the agent.
+    - Cost-Benefit Analysis: Recognize that not every task is worth automating. If a task takes 3 seconds and is stable, the overhead of building an agent pipeline may outweigh the time saved. Focus learning efforts on high-friction, high-complexity problems where human intuition is currently the bottleneck.
+
+# Final words
+
+So why am I actually so worked up about this all? Can't I just let people be happy and name things however they want and dream a little?
+
+It would be fine if it were just that, but what's happening right now is malicious use of this language to overpromise and underdeliver, and in the process make massive profits from what is essentially **deception**.
+
+Anyone working in IT/Software who has any respect for the profession, for their professional integrity, for their clients and their users will not engage in this, as tempting as it may be.
+
+I believe that we all owe it to each other and to our communities to explain what's happening from a realistic grounded and practical point of view, so we can maximize the ROI of this truly revolutionary technology while tuning out the noise and weeding out false claims and outright fraudulent pitches.
