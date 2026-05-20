@@ -25,6 +25,8 @@
       {% endif %}
 
       {% if site.matomo %}
+        &nbsp;&bull;&nbsp;
+        <a href="{{ '/privacy/' | relative_url }}" class="text_muted">Privacy</a>
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
           <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
