@@ -1,0 +1,108 @@
+{% if site.matomo %}
+<div id="consent-banner" role="dialog" aria-live="polite" aria-label="Privacy consent" hidden>
+  <div class="consent-banner-inner">
+    <p class="consent-banner-text">
+      This site uses <a href="https://matomo.org/" target="_blank" rel="noopener">Matomo</a> (self-hosted on my own server) to see which posts resonate. No data is shared with third parties. See the <a href="{{ '/privacy/' | relative_url }}">privacy policy</a> for details.
+    </p>
+    <div class="consent-banner-actions">
+      <button type="button" id="consent-accept" class="consent-btn consent-btn-accept">Accept</button>
+      <button type="button" id="consent-decline" class="consent-btn consent-btn-decline">Decline</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  #consent-banner {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    background: #2e2e2e;
+    color: #d1d1d1;
+    border-top: 1px solid #444;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.35);
+    font-size: 0.95rem;
+  }
+  #consent-banner[hidden] { display: none; }
+  .consent-banner-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0.9rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.9rem;
+  }
+  .consent-banner-text {
+    flex: 1 1 320px;
+    margin: 0;
+    line-height: 1.4;
+  }
+  .consent-banner-text a { color: #5cb3ff; }
+  .consent-banner-text a:hover { color: #00c3eb; }
+  .consent-banner-actions {
+    display: flex;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+  .consent-btn {
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 0.45rem 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    line-height: 1;
+  }
+  .consent-btn-accept {
+    background: #5cb3ff;
+    color: #1c1c1c;
+    font-weight: 600;
+  }
+  .consent-btn-accept:hover { background: #00c3eb; }
+  .consent-btn-decline {
+    background: transparent;
+    color: #d1d1d1;
+    border-color: #6a6a6a;
+  }
+  .consent-btn-decline:hover { border-color: #d1d1d1; color: #ffffff; }
+</style>
+
+<script>
+  (function () {
+    var STORAGE_KEY = 'matomo-consent';
+    var banner = document.getElementById('consent-banner');
+    var accept = document.getElementById('consent-accept');
+    var decline = document.getElementById('consent-decline');
+    var paq = (window._paq = window._paq || []);
+
+    function grant() {
+      paq.push(['setConsentGiven']);
+      paq.push(['setCookieConsentGiven']);
+    }
+
+    var stored = null;
+    try { stored = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+
+    if (stored === 'granted') {
+      grant();
+    } else if (stored === 'denied') {
+      // Leave Matomo in the require-consent state — no tracking.
+    } else {
+      banner.hidden = false;
+    }
+
+    accept.addEventListener('click', function () {
+      try { localStorage.setItem(STORAGE_KEY, 'granted'); } catch (e) {}
+      grant();
+      banner.hidden = true;
+    });
+
+    decline.addEventListener('click', function () {
+      try { localStorage.setItem(STORAGE_KEY, 'denied'); } catch (e) {}
+      paq.push(['forgetConsentGiven']);
+      banner.hidden = true;
+    });
+  })();
+</script>
+{% endif %}
